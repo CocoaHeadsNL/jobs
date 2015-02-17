@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Jobs"
 description: > # this means to ignore newlines until "email:"
-   Job openings offered by CocoaHeadsNL sponsors
+   offered by CocoaHeadsNL sponsors
 
 email: foundation@cocoaheads.nl
 #blog logo
