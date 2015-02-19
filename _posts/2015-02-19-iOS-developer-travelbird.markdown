@@ -7,7 +7,7 @@ tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 
-![TravelBird](/assets/article_images/2015-02-19-iOS-developer-travelbird/logo.png)
+![](/assets/article_images/2015-02-19-iOS-developer-travelbird/logo.png)
 
 Are you a passionate iOS Developer who honoured a lot of developing skills in the last years? Do you want to use that knowledge to create a fully native iOS app for thousands of users? Or always wanted to play around with the newest features like iBeacons? Then you might just be the right person we're looking for! TravelBird is looking for new talent to join our production development team. Together we will create great new features and deliver an outstanding user experience to all our users.
 
