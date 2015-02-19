@@ -3,7 +3,6 @@ layout: post
 title:  "Full-time Senior iOS Developer, Amsterdam"
 date:   2015-02-19 13:36:00
 categories: job posting
-tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 
