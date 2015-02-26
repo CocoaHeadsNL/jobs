@@ -38,4 +38,4 @@ More info? Visit [touchwonders.com/jobs](http://www.touchwonders.com/jobs)
 * Free sodas, fruit, snacks and Italian coffee (or tea)
 * Monthly drinks and (un)official team activities
 
-If you want to join us in our mission to create the best apps, we'd like to hear from you! Just send your resume and GitHub, blog or examples of your work to christian@touchwonders.com and we'll be in touch.
+If you want to join us in our mission to create the best apps, we'd like to hear from you! Just send your resume and GitHub, blog or examples of your work to christian@touchwonders.com and we'll be in touch. (Please mention CocoaHeadsNL.)
