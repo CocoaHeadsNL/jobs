@@ -6,7 +6,7 @@ categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 
-![](/assets/article_images/2015-02-18-iOS-engineer-touchwonders/touchwonders/TW-vacature.png)
+![](/assets/article_images/2015-02-18-iOS-engineer-touchwonders/TW-vacature.png)
 
 # Help us make amazing user experiences
 
