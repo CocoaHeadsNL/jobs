@@ -39,5 +39,5 @@ At Xebia we gather very exceptional people, giving them the space and opportunit
  
 Do you want to join us in our journey? Just send your CV including an original and motivating cover letter to [Charlene Benjamins (cbenjamins@xebia.com)](mailto:cbenjamins@xebia.com) and we'll be in touch. Please mention CocoaHeadsNL.
  
-For more information about Xebia and our jobs: [https://xebia.com/careers/](https://xebia.com/careers/) Please mention CocoaHeadsNL when applying.
+For more information about Xebia and our jobs: [https://xebia.com/careers/](https://xebia.com/careers/)
  
