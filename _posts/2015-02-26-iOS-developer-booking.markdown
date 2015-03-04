@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iOS Developer, Amsterdam"
-date:   2015-02-19 13:36:00
+date:   2015-03-04 13:36:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
