@@ -6,7 +6,7 @@ categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 
-![](/assets/article_images/2015-02-26-iOS-developer-booking/booking.png)
+![](/assets/article_images/2015-03-04-ios-developer-booking/booking.png)
 
 
 Booking.com BV (the company behind Booking.com™, the market leading online hotel reservation service in the world) is looking for an iOS developer to join our team in our Amsterdam headquarters.  As a member of our IT Production Team, you’ll be given the freedom to make meaningful and measurable improvements that impact millions of people. You’ll be working on 7000+ boxes placed in multiple, live, data centers around the world, as well as working within one of the biggest e-commerce companies in the world.  
