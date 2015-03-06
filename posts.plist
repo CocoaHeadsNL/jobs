@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+{% for post in site.posts %}
+<dict>
+  <key>"title"</key>
+  <string>"{{ post.title }}"</string>
+  <key>"url"</key>
+  <string>"{{ post.url }}"</string>
+  <key>"date"</key>
+  <date>{{ post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</date>
+  <key>"content"</key>
+  <string>"{{ post.content | xml_escape }}"</string>
+  <key>"tags"</key>
+  <array>
+    {% for cat in post.categories %}
+      <string>"{{ cat | xml_escape }}"</string>
+    {% endfor %}
+  </array>
+</dict>
+{% endfor %}
+</array>
+</plist>
