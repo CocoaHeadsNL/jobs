@@ -11,7 +11,7 @@ layout: nil
   "content" : "{{ post.content | escape }}",
   "tags" : [
     {% for cat in post.categories %}
-      "{{ cat | escape }}"{% if forloop.last %}{% else %},{% endif %}
+      "{{ cat | escape_once | newline_to_br }}"{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
   ]
 } {% if forloop.last %}{% else %},{% endif %}
