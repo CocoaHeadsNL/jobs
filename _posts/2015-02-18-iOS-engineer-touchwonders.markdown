@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: job
 title:  "Full-time iOS Engineer, Utrecht"
 date:   2015-02-18 13:36:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+sponsor-logo: /assets/article_images/2015-02-18-iOS-engineer-touchwonders/TW-vacature.png
 ---
-
-![](/assets/article_images/2015-02-18-iOS-engineer-touchwonders/TW-vacature.png)
 
 # Help us make amazing user experiences
 

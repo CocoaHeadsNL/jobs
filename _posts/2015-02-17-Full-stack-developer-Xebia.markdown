@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: job
 title:  "Full Stack Developer, Netherlands"
 date:   2015-02-17 12:37:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+sponsor-logo: /assets/article_images/2015-02-17-Full-stack-developer-Xebia/Xebia-logo.png
 ---
-
-![](/assets/article_images/2015-02-17-Full-stack-developer-Xebia/Xebia-logo.png)
 
 Are you ahead of the game? Are you the true Software craftman who delivers quality? Are you passionate about developing in back-end and front-end? Do you want to be part of a team consisting out of the finest and most innovative Full Stack Developers there can be? Are you ready for Software Development done right?!
  

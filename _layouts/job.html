@@ -48,6 +48,9 @@
             <span class="post-reading-time"></span> read
           </div>
           <a name="topofpage"></a>
+          {% if page.sponsor-logo %}
+          <p><img src="{{ page.sponsor-logo }}" /></p>
+          {% endif %}
           {{content}}
         </section>
         <footer class="post-footer">
