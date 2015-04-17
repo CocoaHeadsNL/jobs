@@ -31,6 +31,7 @@ As lead developer, your role includes guiding the mobile team’s direction and 
 #We’re a hiring a senior iOS and/or Android developer to lead our team!
 
 You have:
+
 - An understanding of the end-to-end architecture of applications (both backend and frontend)
 - Experience with full cycle development, from feature design to delivery and support
 - Passion for great user experience throughout
@@ -42,6 +43,7 @@ You have:
 - Love for open source and for actively contributing back
 
 You will:
+
 - Make architectural decisions that will impact our products for years
 - Take responsibility and ownership for delivering the best
 - Spend time to get things “right”, not to hack something up quick
@@ -52,6 +54,7 @@ You will:
 -Inspire and share your experience with your colleagues
 
 You get:
+
 - Competitive compensation: market rate, pension plan
 - Room for personal and professional development
 - A motivated team and a thriving work culture
