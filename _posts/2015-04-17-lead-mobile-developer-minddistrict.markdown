@@ -64,7 +64,7 @@ You get:
 - A motivated team and a thriving work culture
 - The freedom to set up your ideal work environment
 
-If you think that you fit this job description please send your CV to hiring@minddistrict.com, with a cover letter about “who you are as a programmer”. Personal applications only please, recruiters need not apply. As we are looking for a long-term two-way commitment, we prefer full-time employees over freelancers. Please mention CocoaHeadsNL
+If you think that you fit this job description please send your CV to <a href="mailto:hiring@minddistrict.com">hiring@minddistrict.com<a/>, with a cover letter about “who you are as a programmer”. Personal applications only please, recruiters need not apply. As we are looking for a long-term two-way commitment, we prefer full-time employees over freelancers. Please mention CocoaHeadsNL
 
 
 #More about us
