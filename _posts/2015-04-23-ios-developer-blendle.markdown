@@ -17,6 +17,7 @@ Dat gaf ons de kans om ook apps te gaan maken. Begin februari lanceerden we onze
 
 #Wat kun je van ons verwachten?
 
+
 - Een vriendelijke, maandelijkse donatie op een bankrekening naar keuze.
 - Een geweldig team met leuke én slimme programmeurs plus leuke en de beste designers van Nederland, die met z’n allen proberen een klein bedrijfje heel groot te maken.
 - Veel weekendjes weg met de hele club (niet verplicht natuurlijk).
@@ -24,6 +25,7 @@ Dat gaf ons de kans om ook apps te gaan maken. Begin februari lanceerden we onze
 - Dat we ervoor zorgen dat heel veel mensen in heel veel landen de door jou gemaakte apps gaan gebruiken.
 
 #Wat verwachten we van jou?
+
 
 - Je kunt omgaan met de vrijheid die we je geven.
 - Minimaal een app in de store of in ieder geval in productie
@@ -35,4 +37,4 @@ Dat gaf ons de kans om ook apps te gaan maken. Begin februari lanceerden we onze
 
 Tot snel!
 
-[Solliciteer nu!](https://blendle.homerun.hr/ios-developer/apply)
+[Solliciteer nu!](https://blendle.homerun.hr/ios-developer/apply) en vergeet niet Cocoaheads te noemen.
