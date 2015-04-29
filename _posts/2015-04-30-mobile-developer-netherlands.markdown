@@ -4,7 +4,7 @@ title:  "Mobile Developer, Netherlands"
 date:   2015-04-30 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
-sponsor-logo: /assets/article_images/2015-04-30-mobile-developer-netherlands/xebia.png
+sponsor-logo: /assets/article_images/2015-04-30-mobile-developer-netherlands/Xebia-logo.png
 ---
 
 *Are you ahead of the game? Are you the Mobile Craftsman who delivers quality? Are you passionate about Mobile Developing? Do you want to be part of a team consisting out of the finest and most innovative Developers there can be? Are you ready for Software Development done right?!*
