@@ -4,7 +4,7 @@ title:  "iOS software engineer"
 date:   2015-05-01 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
-sponsor-logo: /assets/article_images/2015-05-01-ios-software-engineer/backbase.png
+sponsor-logo: /assets/article_images/2015-05-01-iOS-software-engineer/backbase.png
 ---
 
 #Backbase is hiring | iOS Software Engineer
