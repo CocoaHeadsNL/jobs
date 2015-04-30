@@ -1,12 +1,11 @@
 ---
 layout: job
-title:  "Mobile Developer, Netherlands"
+title:  "iOS software engineer"
 date:   2015-05-01 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
-sponsor-logo: /assets/article_images/2015-05-01-iOS-software-engineer/backbase.png
+sponsor-logo: /assets/article_images/2015-05-01-ios-software-engineer/backbase.png
 ---
-
 
 #Backbase is hiring | iOS Software Engineer
 
@@ -20,30 +19,34 @@ One of the responsibilities for the mobile team is developing and maintaining ou
 #Your profile
 
 The ideal candidate for this challenging position as an iOS software engineer within Backbase will fit the following profile:
-— 3 or more years in-depth experience with native iOS software development, mastering technologies like Objective-C, Swift, Cocoa and/or Cocoa Touch and familiar with concepts such as ARC, blocks, core data, etc.
-— Experience with networking including security (e.g. stateful & stateless requests, SSL pinning), caching and parsing of data (e.g. JSON and/or XML).
-— Experience with hybrid solutions such as rendering (complex) web pages including HTML, JavaScript and CSS in web view components (e.g. UIWebView or WKWebView), PhoneGap, Apache Cordova or similar solutions. 
-— Experienced with Scrum and Agile practices, automated testing and continuous integration builds.
-— Experienced with performance tuning, reusability and maintainability of mobile applications and applying architecture design patterns. 
-— Excellent communication skills in English.
-— Not afraid of traveling around the world a few times a year. 
-— Pixel perfect: build the best user experience possible.
+
+- 3 or more years in-depth experience with native iOS software development, mastering technologies like Objective-C, Swift, Cocoa and/or Cocoa Touch and familiar with concepts such as ARC, blocks, core data, etc.
+- Experience with networking including security (e.g. stateful & stateless requests, SSL pinning), caching and parsing of data (e.g. JSON and/or XML).
+- Experience with hybrid solutions such as rendering (complex) web pages including HTML, JavaScript and CSS in web view components (e.g. UIWebView or WKWebView), PhoneGap, Apache Cordova or similar solutions.
+- Experienced with Scrum and Agile practices, automated testing and continuous integration builds.
+- Experienced with performance tuning, reusability and maintainability of mobile applications and applying architecture design patterns.
+- Excellent communication skills in English.
+- Not afraid of traveling around the world a few times a year.
+- Pixel perfect: build the best user experience possible.
 
 Your personality can be classified as:
-— Team player who is passionate about software development and actively shares knowledge. 
-— An out-of-the-box mentality not only solving today’s issues, but also thinking about tomorrow’s challenges.
-— Flexible, balanced and always striving for improvements. 
-— Last but not least: a fun colleague to work with!
+
+- Team player who is passionate about software development and actively shares knowledge.
+- An out-of-the-box mentality not only solving today’s issues, but also thinking about tomorrow’s challenges.
+- Flexible, balanced and always striving for improvements.
+- Last but not least: a fun colleague to work with!
 
 #The offer
 Backbase provides excellent company benefits for this role including:
-— Market rate salary (depending on experience). 
-— 25 holidays (based upon a 40hr work week).
-— Contributory pension scheme. 
-— Free lunch, drinks, snacks and fruit.
-— Company fitness plan, and potential international career opportunities.
+
+- Market rate salary (depending on experience).
+- 25 holidays (based upon a 40hr work week).
+- Contributory pension scheme.
+- Free lunch, drinks, snacks and fruit.
+- Company fitness plan, and potential international career opportunities.
 
 Backbase offers you a challenging job in an informal and ambitious environment where personal development is highly valued. This is all within a successful, young and growing organization with a matching company spirit.
 
 #Next steps
 For more information please contact Justyna Adamczyk at +31 (0)20 465 8888 or by email: [justyna@backbase.com](mailto:justyna@backbase.com). Please mention CocoaHeadsNL.
+
