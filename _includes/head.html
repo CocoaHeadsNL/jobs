@@ -21,7 +21,7 @@
 <meta property="og:site_name"content="Jobs CocoaHeadsNL" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:image" content="{{site.url}}/assets/images/images/CocoaHeadsNL.png" />
+<meta property="og:image" content="{% if page.sponsor-logo %}{{site.url}}{{ page.sponsor-logo }}{% else %}{{site.url}}{{ site.author_image }}{% endif %}" />
 <meta property="og:config" content="{{ site.description }}" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@cocoaheadsnl" />
