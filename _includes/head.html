@@ -12,8 +12,22 @@
   <meta name="MobileOptimized" content="320" />
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="description" content="Cocoaheads is a monthly meeting of iOS developers in the Netherlands" />
+  <meta name="description" content="{{ site.description }}" />
   <meta name="keywords" content="iOS developer, Mac developer, ios vacature, Cocoa, Xcode, Amsterdam, ,iOS, iPhone, iPad, Mac, Meeting, Developers, Development" />
+  
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta property="og:summary" content="{{ site.description }}" />
+<meta property="og:site_name"content="Jobs CocoaHeadsNL" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:image" content="{{site.url}}/assets/images/images/CocoaHeadsNL.png" />
+<meta property="og:config" content="{{ site.description }}" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@cocoaheadsnl" />
+<meta name="twitter:description" content="{{ site.description }}" />
+<meta name="apple-itunes-app" content="app-id=998188273" />
+  
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
