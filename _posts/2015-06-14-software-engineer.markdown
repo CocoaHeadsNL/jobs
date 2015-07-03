@@ -1,7 +1,7 @@
 ---
 layout: job
 title:  “Software engineer”
-date:   2015-05-12 17:00:00
+date:   2015-06-26 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-06-14-software-engineer/Escaladalogo320.png
