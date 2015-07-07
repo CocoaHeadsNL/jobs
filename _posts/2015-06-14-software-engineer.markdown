@@ -1,6 +1,7 @@
 ---
 layout: job
-title:  “Software engineer”
+title:  Software engineer
+company: Escalada
 date:   2015-06-26 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
