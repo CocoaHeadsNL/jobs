@@ -15,9 +15,7 @@ You are a high skilled developer who is able to combine intelligence with techni
 
 Knowledge of Android Java and .Net is a plus. You will be part of a multi-disciplinary development team within an international environment.
 
-This position is based at our headquarters in the Netherlands.
-
-http://eu.suitsupply.com/nl/careers-corporate-itdevelopment.html#careers-corporate-itdevelopment-iosdeveloper
+[This position is based at our headquarters in the Netherlands.](http://eu.suitsupply.com/nl/careers-corporate-itdevelopment.html#careers-corporate-itdevelopment-iosdeveloper)
 
 ## Suitsupply
 
