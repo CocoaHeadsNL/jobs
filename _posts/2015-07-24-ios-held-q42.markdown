@@ -2,7 +2,7 @@
 layout: job
 title:  iOS Held
 company: Q42
-date:   2015-07-07 17:47:00
+date:   2015-07-27 13:37:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-07-24-ios-held/q42-logo-rgb-alpha.png
