@@ -41,4 +41,4 @@ Hou jij van programmeren? Met name van apps? Dan willen wij graag met jou praten
 
 Interesse? Stuur een mailtje naar Lukas ([lukas@q42.nl](mailto:lukas@q42.nl)). Dan gaan we even praten. Vermeld even dat je ons gevonden hebt via CocoaHeadsNL.
 
-PS Recruiters kunnen hun mail sturen naar [ditlezenwetochniet@q42.nl](ditlezenwetochniet@q42.nl)
+PS Recruiters kunnen hun mail sturen naar [ditlezenwetochniet@q42.nl](mailto:ditlezenwetochniet@q42.nl)

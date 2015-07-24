@@ -1,7 +1,7 @@
 ---
 layout: job
-title:  iOS Engineer at Awkward
-company: Q42
+title:  iOS Engineer
+company: MadeAwkward
 date:   2015-07-27 17:47:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
