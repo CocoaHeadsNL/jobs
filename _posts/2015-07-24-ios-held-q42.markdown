@@ -1,0 +1,44 @@
+---
+layout: job
+title:  iOS Held
+company: Q42
+date:   2015-07-07 17:47:00
+categories: job posting
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+sponsor-logo: /assets/article_images/2015-07-24-ios-held/q42-logo-rgb-alpha.png
+---
+
+# iOS-held(in) gezocht bij Q42
+
+Hou jij van programmeren? Met name van apps? Dan willen wij graag met jou praten. Want wij zijn op zoek naar een knappe kop. Alwéér. In Amsterdam. Om precies te zijn.
+
+## Jij
+
+- Bent een ervaren iOS-developer;
+- Bent in elk geval heul erg één van de twee;
+- Bent liever allebei;
+- Kunt met trots verschillende door jou gebouwde iOS- en eventueel Android-apps laten zien;
+- Knikt ook enthousiast bij het merendeel van: Scala, node.js, Meteor, Elasticsearch, C#;
+- Durft in nog veel meer te duiken: Haskell, F#, Xamarin, noem maar op;
+- Bent een programmeur in hart en nieren;
+- Werkt met plezier een mooie, pragmatische architectuur uit;
+- Houdt van samenwerken met anders nerds… uh… gepassioneerde programmeurs;
+- Werkt graag in Amsterdam;
+- Hoeft geen stropdas/mantelpakje te dragen.
+
+## Wij
+
+- Zitten in Amsterdam aan het IJ;
+- Zitten ook in Den Haag naast Station HS en in Mountain View (Californië, VS);
+- Vinden de gebruiker belangrijker dan de klant, en durven daarvoor te strijden;
+- Zijn apetrots op ons werk voor Rijksmuseum, 9292, Staatsloterij, Google, ThiemeMeulenhoff en veel meer mooie klanten en partners;
+- Houden wel van technische uitdagingen en creativiteit;
+- Houden niet van veel managementlagen en complexiteit;
+- Bepalen na jou gesproken te hebben je salaris op basis van wat je kunt, niet op basis van je CV;
+- Hebben om de week passietijd, waarin we alles mogen doen en bouwen wat we maar willen;
+- Lunchen iedere dag gezellig met z’n allen tegelijk, en die krijg je van ons net als de espresso, ijs, fruit, chips, en de eventuele overwerkpizza met cola/bier/vitaminewater;
+- Dragen ook geen stropdas/mantelpakje.
+
+Interesse? Stuur een mailtje naar Lukas ([lukas@q42.nl](mailto:lukas@q42.nl)). Dan gaan we even praten. Vermeld even dat je ons gevonden hebt via CocoaHeadsNL.
+
+PS Recruiters kunnen hun mail sturen naar [ditlezenwetochniet@q42.nl](ditlezenwetochniet@q42.nl)
