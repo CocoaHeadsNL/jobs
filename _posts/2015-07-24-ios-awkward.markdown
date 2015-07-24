@@ -1,7 +1,7 @@
 ---
 layout: job
 title:  iOS Engineer
-company: MadeAwkward
+company: Awkward
 date:   2015-07-27 17:47:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
