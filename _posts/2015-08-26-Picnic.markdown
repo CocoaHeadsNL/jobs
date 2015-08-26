@@ -1,0 +1,41 @@
+---
+layout: job
+title:  Software Engineer – iOS developer
+company: Picnic
+date:   2015-08-26 19:51:00
+categories: job posting
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+sponsor-logo: /assets/article_images/2015-08-26-ios-developer/picnic.png
+---
+
+Have you heard of Picnic? Picnic is the first 100% online grocery store in the Netherlands. We aim for zero emissions and waste reduction. Our ultimate goal is to make online grocery shopping the best experience ever! We are currently expanding our international development team. So if you are frantic about developing iOS apps in Swift and want to tackle challenging problems others have been unable to solve, then you should join us!
+
+#Your challenge
+
+- Improve the daily lives of hundreds of thousands of grocery shoppers
+- Go where nobody has gone and get wide recognition for world class apps
+- Design, create, own and maintain our native iPhone and iPad applications
+- Push your limits in creating super clean, well structured, testable, performant, high quality code
+- Keep up with the latest technologies and define our future technology stack
+- Be challenged every day by our extremely talented team
+
+#Our requirements
+
+- Highly analytical and curious mind with a master in Computer Science or equivalent
+- Incredible passion for iOS development, app development
+- Strong Objective-C, iOS SDK development skills
+- Experience in Swift is a plus
+- Active in open source community
+- Live and breathe agile development, Git
+- Open personality with superb communication skills (Dutch not required)
+- Hands-on, nothing-is-impossible mindset, real team player, preferably EU work permit
+
+#The perks
+
+- Inspiring, energetic and sociable team members in a canal facing office in Amsterdam
+- Great opportunity to build from scratch, no legacy, bleeding edge technology stack
+- Extremely flat organisation
+- Great environment for personal and professional development and growth
+- Competitive salary
+
+You can apply by sending your resume to [jobs@teampicnic.com](mailto:jobs@teampicnic.com) (Roline Spijkervet) Please mention CocoaHeadsNL
