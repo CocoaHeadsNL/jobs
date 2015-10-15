@@ -8,7 +8,7 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-09-02-ios-developer/elastique.png
 ---
 
-Elastique is een award-winning digitaal bureau dat zich specialiseert in het creëren van spraakmakende en meeslepende online- en mobiele ervaringen. Wij werken volledig  ingericht volgens de agile scrum werkwijze, van sales tot oplevering, in een open, intensieve en prettige samenwerking met onze opdrachtgevers. Wij richten ons met name op de ontwikkeling van websites en mobiele applicaties, maar ons aanbod breidt zich steeds vaker uit met strategie- en concept ontwikkeling. Op dit moment bedienen we klanten zoals: NPO, KRO-NCRV, BNN-VARA, 3FM, Radio 2, AVROTROS.
+Elastique is een award-winning digitaal bureau dat zich specialiseert in het creeren van spraakmakende en meeslepende online- en mobiele ervaringen. Wij werken volledig  ingericht volgens de agile scrum werkwijze, van sales tot oplevering, in een open, intensieve en prettige samenwerking met onze opdrachtgevers. Wij richten ons met name op de ontwikkeling van websites en mobiele applicaties, maar ons aanbod breidt zich steeds vaker uit met strategie- en concept ontwikkeling. Op dit moment bedienen we klanten zoals: NPO, KRO-NCRV, BNN-VARA, 3FM, Radio 2, AVROTROS.
 
 #Functie
 
@@ -27,13 +27,13 @@ Je beschikt als iOS Developer over de volgende competenties en kwalificaties:
 - tenminste 2 tot 5 jaar aantoonbare ervaring met iOS development
 - ervaring met Xcode en GIT
 - ervaring met Core Data en Swift
-- kennis van PHP en/ of Java backends is een pré
+- kennis van PHP en/ of Java backends is een pre
 
 Daarnaast heb je een sterk verantwoordelijkheidsgevoel, werk je gestructureerd en ben je klant- en oplossingsgericht ingesteld. Tot slot beschik je over een goede beheersing van de Nederlandse en Engelse taal in woord en geschrift.
 
 #Aanbod
 
-Wij bieden je een fulltime baan (32-40 uur) met een marktconform salaris en aanvullende arbeidsvoorwaarden zoals vervoersbudget, pensioen, lunch en een laptop. De ontwikkeling van onze medewerkers is een top prioriteit. We bieden daarom volop mogelijkheden voor opleidingen die belangrijk zijn in je functie en in het kader van je carrièrepad.
+Wij bieden je een fulltime baan (32-40 uur) met een marktconform salaris en aanvullende arbeidsvoorwaarden zoals vervoersbudget, pensioen, lunch en een laptop. De ontwikkeling van onze medewerkers is een top prioriteit. We bieden daarom volop mogelijkheden voor opleidingen die belangrijk zijn in je functie en in het kader van je carrierepad.
 
 #Interesse?
 

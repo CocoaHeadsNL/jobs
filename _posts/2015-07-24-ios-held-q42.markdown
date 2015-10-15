@@ -10,12 +10,12 @@ sponsor-logo: /assets/article_images/2015-07-24-ios-held/q42-logo-rgb-alpha.png
 
 # iOS-held(in) gezocht bij Q42
 
-Hou jij van programmeren? Met name van apps? Dan willen wij graag met jou praten. Want wij zijn op zoek naar een knappe kop. Alwéér. In Amsterdam. Om precies te zijn.
+Hou jij van programmeren? Met name van apps? Dan willen wij graag met jou praten. Want wij zijn op zoek naar een knappe kop. Alweer. In Amsterdam. Om precies te zijn.
 
 ## Jij
 
 - Bent een ervaren iOS-developer;
-- Bent in elk geval heul erg één van de twee;
+- Bent in elk geval heul erg een van de twee;
 - Bent liever allebei;
 - Kunt met trots verschillende door jou gebouwde iOS- en eventueel Android-apps laten zien;
 - Knikt ook enthousiast bij het merendeel van: Scala, node.js, Meteor, Elasticsearch, C#;
@@ -29,7 +29,7 @@ Hou jij van programmeren? Met name van apps? Dan willen wij graag met jou praten
 ## Wij
 
 - Zitten in Amsterdam aan het IJ;
-- Zitten ook in Den Haag naast Station HS en in Mountain View (Californië, VS);
+- Zitten ook in Den Haag naast Station HS en in Mountain View (Californie, VS);
 - Vinden de gebruiker belangrijker dan de klant, en durven daarvoor te strijden;
 - Zijn apetrots op ons werk voor Rijksmuseum, 9292, Staatsloterij, Google, ThiemeMeulenhoff en veel meer mooie klanten en partners;
 - Houden wel van technische uitdagingen en creativiteit;

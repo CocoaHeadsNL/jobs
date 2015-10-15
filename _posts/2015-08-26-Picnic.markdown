@@ -1,6 +1,6 @@
 ---
 layout: job
-title:  Software Engineer – iOS developer
+title:  iOS Software Engineer  
 company: Picnic
 date:   2015-08-26 19:51:00
 categories: job posting

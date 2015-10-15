@@ -23,7 +23,7 @@ Your work will impact the way people will design and build digital products by r
 
 You should have a subset of skills in JavaScript, Objective-C, C, WebGL, OpenGL, Python, Ruby. Experience with WebKit internals, Graphics Programming, Skia, Physics Engines and Code Parsing are a plus. A strong Computer Science background is also a plus, but we also hire great self-taught people with work to show for it.
 
-The kind of person we are looking for is someone that can work hard, but also keep sane hours. People with great ideas, strong opinions, but also who can ship – a maker. People who take responsibility, in- and outside of defined roles to make themselves unmissable for the company, and to grow into senior roles quickly.
+The kind of person we are looking for is someone that can work hard, but also keep sane hours. People with great ideas, strong opinions, but also who can ship, a maker. People who take responsibility, in- and outside of defined roles to make themselves unmissable for the company, and to grow into senior roles quickly.
 
 ##Examples of Work
 

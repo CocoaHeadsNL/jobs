@@ -24,11 +24,11 @@ We are pioneers at everything we do, and we work hard to keep it that way. Our p
 
 There are few things that distract us. This approach enables us to create an environment in which our customers feel that we only have eyes for them. We are there for people who want to be seen. 
 
-At Suitsupply we use only the finest Italian fabrics sourced from mills such as Larusmiani and Vitale Barberis Canonico and combine this with European styling, unbeatable service and an attainable price bracket - revolutionary approach to men’s fashion. No attention to detail is ever spared and tailoring is done on-site, while-you-wait, allowing everyone to leave with the perfect fit. 
+At Suitsupply we use only the finest Italian fabrics sourced from mills such as Larusmiani and Vitale Barberis Canonico and combine this with European styling, unbeatable service and an attainable price bracket - revolutionary approach to fashion for men. No attention to detail is ever spared and tailoring is done on-site, while-you-wait, allowing everyone to leave with the perfect fit. 
 
-Our range is wide and versatile and consists of jackets and trousers, shirts, accessories and shoes that allow customers to purchase prêt à porter fashion items as well as made-to-measure garments.
+Our range is wide and versatile and consists of jackets and trousers, shirts, accessories and shoes that allow customers to purchase pret a porter fashion items as well as made-to-measure garments.
 
 
-Suitsupply has more than 60 stores in 16 different countries; the Netherlands, Belgium, Germany, Italy, the United Kingdom, Belarus, Latvia, Lithuania, Canada, Mexico, China, Russia, Singapore, South Africa and the United States. We recently opened stores in Zurich, Dallas and Toronto, and soon we’ll open our doors in Miami, San Francisco, Montreal and many more..
+Suitsupply has more than 60 stores in 16 different countries; the Netherlands, Belgium, Germany, Italy, the United Kingdom, Belarus, Latvia, Lithuania, Canada, Mexico, China, Russia, Singapore, South Africa and the United States. We recently opened stores in Zurich, Dallas and Toronto, and soon we will open our doors in Miami, San Francisco, Montreal and many more..
 
-Don’t forget to mention CocoaHeadsNL!
+Do not forget to mention CocoaHeadsNL!

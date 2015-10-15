@@ -16,7 +16,7 @@ True Software Craftsmen look for simplicity, and break down complex problems int
  
 Fast paced technology innovations are changing the game. Big Data is changing the way we look at data and client interaction. Development of modern web applications in HTML5, Angular-JS and Scala/Akka has changed drastically over the last years. Strategies like micro-services make us rewrite code more often, and for the best. Even the basics like version control and application deployment drastically evolved. We surf the front wave of these innovations and make them work in todays complex organizations.
  
-At Xebia we gather very exceptional people, giving them the space and opportunity to excel, in a community of ambitious and talented peers. Letting the passion of exceptionally smart people drive innovation for our clients is the core concept of our organisation. Everything, from structure to values to strategic innovation to hiring to knowledge management is focused on this.  Being an authority in what we do is the lighthouse we are heading towards.
+At Xebia we gather very exceptional people, giving them the space and opportunity to excel, in a community of ambitious and talented peers. Letting the passion of exceptionally smart people drive innovation for our clients is the core concept of our organisation. Everything, from structure to values to strategic innovation to hiring to knowledge management is focused on this. Being an authority in what we do is the lighthouse we are heading towards.
  
 #Let's talk about you
 
@@ -32,7 +32,7 @@ At Xebia we gather very exceptional people, giving them the space and opportunit
 - A great place to work at our headquartes in Hilversum but mainly in a team of our own Full Stack Developers at our fantastic clients
 - Bi-weekly Knowledge Exchange, where you can learn from te best
 - An innovative environment where you can pursue your dreams
-- Training budget consists of € 5000 and six training days to expand your knowledge (fulltime employment)
+- Training budget consists of Euro 5000 and six training days to expand your knowledge (fulltime employment)
 - A desirable salary and benefits (Latest Mac Book, Iphone, nice ride)
 - Drinks, snacks and a lot of fun
  
