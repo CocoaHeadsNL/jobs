@@ -1,0 +1,43 @@
+---
+layout: job
+title:  iOS Developer  
+company: Triple IT
+date:   2015-11-16 14:00:00
+categories: job posting
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+sponsor-logo: /assets/article_images/2015-11-16-ios-developer/tripleit.png
+---
+
+#iOS Developer
+
+Bij Triple IT worden wij gedreven door een passie voor technologie en innovatie. Producten ontwikkelen vanuit een intrinsieke motivatie en overtuiging – dat is waar het bij ons om draait. Vanuit deze visie versterken wij topmerken met digitale innovatie en oplossingen gericht op mobiel en internet in uiteenlopende branches, voor o.a. Vodafone, RTL, Heineken, Ajax, Talpa, en ANWB. Van concept en strategie tot design, van apps tot optimalisatie, Virtual Reality en hosting. Met inmiddels ruim 90 enthousiaste collega’s en alle expertise onder één dak, ontwikkelen we bedrijfskritische oplossingen met sterk resultaat. 
+
+Voor de afdeling Development zijn we op zoek naar een talentvolle iOS Developer voor het ontwikkelen van onderscheidende iPhone en iPad applicaties voor onze A-merk klanten. Versterk jij het team met je ervaring en passie, waarbij er ruimte is voor initiatief? Lees dan verder, want bij Triple IT bouwen we samen aan het succes van onze klanten.
+
+##Ervaring
+
+Bekend met Objective-C en de iOS SDK;
+XML/JSON standaarden;
+Kennis van interaction- en visual design.
+Pre
+
+Ervaring met PHP en/of Java;
+Kennis van de Android SDK of een ander platform, zoals Windows Mobile en Blackberry.
+Profiel
+
+Je kunt zelfstandig, maar ook goed in teamverband werken;
+Pragmatische instelling, gericht op het bieden van concrete, uitvoerbare oplossingen en denkend in mogelijkheden;
+D.m.v. je ervaring, talent en interesse ben je op de hoogte van alle ontwikkelingen op het gebied van mobiele technologieën. Nieuwe technologieën heb je daarnaast snel onder de knie;
+Je bent creatief, flexibel en hebt aandacht voor kwaliteit.
+Functie-eisen
+
+Minimaal een opleiding op HBO niveau, ook schoolverlaters zijn uitgenodigd om te reageren;
+0 tot 2 jaar ervaring als programmeur.
+De belangrijkste kracht achter Triple IT zijn onze mensen en daar zorgen we dan ook goed voor. Met een prima salaris en pakket aan secundaire voorwaarden en bovenal een goede, informele sfeer waarin werk en ontspanning in balans zijn. Lees meer of kom eens langs en ervaar het zelf.
+
+Solliciteren?
+Stuur ons je motivatie met CV naar <jobs@triple-it.nl>, onder vermelding van de desbetreffende vacature. Je hoort dan snel van ons. Vergeet niet Cocoaheads te noemen!
+
+Deze vacature is ook online te bekijken: [https://www.triple-it.nl/jobs/ios-developer]()
+
+Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld.
