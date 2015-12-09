@@ -17,7 +17,7 @@ name: 'CocoaHeadsNL'
 author: 'CocoaHeadsNL'
 author_image: "/assets/images/CocoaHeadsNL.png"
 
-paginate:	5
+paginate:	15
 
 url: "http://jobs.cocoaheads.nl" # the base hostname & protocol for your site
 baseurl: ""
