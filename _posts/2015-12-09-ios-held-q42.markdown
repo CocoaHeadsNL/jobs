@@ -15,8 +15,6 @@ Hou jij van programmeren? Met name van apps? Dan willen wij graag met jou praten
 ## Jij
 
 - Bent een ervaren iOS-developer;
-- Bent in elk geval heul erg een van de twee;
-- Bent liever allebei;
 - Kunt met trots verschillende door jou gebouwde iOS- en eventueel Android-apps laten zien;
 - Knikt ook enthousiast bij het merendeel van: Scala, node.js, Meteor, Elasticsearch, C#;
 - Durft in nog veel meer te duiken: Haskell, F#, Xamarin, noem maar op;
@@ -39,6 +37,6 @@ Hou jij van programmeren? Met name van apps? Dan willen wij graag met jou praten
 - Lunchen iedere dag gezellig met z’n allen tegelijk, en die krijg je van ons net als de espresso, ijs, fruit, chips, en de eventuele overwerkpizza met cola/bier/vitaminewater;
 - Dragen ook geen stropdas/mantelpakje.
 
-Interesse? Stuur een mailtje naar Lukas ([lukas@q42.nl](mailto:lukas@q42.nl)). Dan gaan we even praten. Vermeld even dat je ons gevonden hebt via CocoaHeadsNL.
+Interesse? Neem een kijkje op onze website:([www.q42.nl](https://www.q42.nl)) of stuur een mailtje naar Lukas ([lukas@q42.nl](mailto:lukas@q42.nl)). Dan gaan we even praten. Vermeld even dat je ons gevonden hebt via CocoaHeadsNL.
 
 PS Recruiters kunnen hun mail sturen naar [ditlezenwetochniet@q42.nl](mailto:ditlezenwetochniet@q42.nl)
