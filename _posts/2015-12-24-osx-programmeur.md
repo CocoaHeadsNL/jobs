@@ -1,7 +1,7 @@
 ---
 layout: job
 title:  OS X Programmeur
-company: Egeniq
+company: Bookarang
 date:   2015-12-24 16:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
