@@ -10,7 +10,7 @@ sponsor-logo: /assets/article_images/2015-08-26-ios-developer/picnic.png
 
 Have you heard of Picnic? Picnic is the first 100% online grocery store in the Netherlands. We aim for zero emissions and waste reduction. Our ultimate goal is to make online grocery shopping the best experience ever! We are currently expanding our international development team. So if you are frantic about developing iOS apps in Swift and want to tackle challenging problems others have been unable to solve, then you should join us!
 
-#Your challenge
+# Your challenge
 
 - Improve the daily lives of hundreds of thousands of grocery shoppers
 - Go where nobody has gone and get wide recognition for world class apps
@@ -19,7 +19,7 @@ Have you heard of Picnic? Picnic is the first 100% online grocery store in the N
 - Keep up with the latest technologies and define our future technology stack
 - Be challenged every day by our extremely talented team
 
-#Our requirements
+# Our requirements
 
 - Highly analytical and curious mind with a master in Computer Science or equivalent
 - Incredible passion for iOS development, app development
@@ -30,7 +30,7 @@ Have you heard of Picnic? Picnic is the first 100% online grocery store in the N
 - Open personality with superb communication skills (Dutch not required)
 - Hands-on, nothing-is-impossible mindset, real team player, preferably EU work permit
 
-#The perks
+# The perks
 
 - Inspiring, energetic and sociable team members in a canal facing office in Amsterdam
 - Great opportunity to build from scratch, no legacy, bleeding edge technology stack

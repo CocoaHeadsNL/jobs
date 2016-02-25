@@ -8,13 +8,13 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-11-16-ios-developer/tripleit.png
 ---
 
-#iOS Developer
+# iOS Developer
 
 Bij Triple IT worden wij gedreven door een passie voor technologie en innovatie. Producten ontwikkelen vanuit een intrinsieke motivatie en overtuiging – dat is waar het bij ons om draait. Vanuit deze visie versterken wij topmerken met digitale innovatie en oplossingen gericht op mobiel en internet in uiteenlopende branches, voor o.a. Vodafone, RTL, Heineken, Ajax, Talpa, en ANWB. Van concept en strategie tot design, van apps tot optimalisatie, Virtual Reality en hosting. Met inmiddels ruim 90 enthousiaste collega’s en alle expertise onder één dak, ontwikkelen we bedrijfskritische oplossingen met sterk resultaat. 
 
 Voor de afdeling Development zijn we op zoek naar een talentvolle iOS Developer voor het ontwikkelen van onderscheidende iPhone en iPad applicaties voor onze A-merk klanten. Versterk jij het team met je ervaring en passie, waarbij er ruimte is voor initiatief? Lees dan verder, want bij Triple IT bouwen we samen aan het succes van onze klanten.
 
-##Ervaring
+## Ervaring
 
 Bekend met Objective-C en de iOS SDK;
 XML/JSON standaarden;

@@ -7,11 +7,11 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-05-12-engineer-at-framer/framer.png
 ---
 
-#Framer is looking for engineers
+# Framer is looking for engineers
 
 Help us invent the future of interaction design tools.
 
-##Requirements
+## Requirements
 
 We are looking for product-minded engineers that would like to work on interactive design and programming tools.
 
@@ -25,10 +25,10 @@ You should have a subset of skills in JavaScript, Objective-C, C, WebGL, OpenGL,
 
 The kind of person we are looking for is someone that can work hard, but also keep sane hours. People with great ideas, strong opinions, but also who can ship, a maker. People who take responsibility, in- and outside of defined roles to make themselves unmissable for the company, and to grow into senior roles quickly.
 
-##Examples of Work
+## Examples of Work
 
 
-###Javascript & graphics programming
+### Javascript & graphics programming
 
 - Optimize the Framer library for animation performance, maybe using a Virtual DOM.
 - Design and build a physics engine right into Framer, and make it usable for product designers.
@@ -36,7 +36,7 @@ The kind of person we are looking for is someone that can work hard, but also ke
 - Explore a WebGL version for Framer, either mixed or full-on.
 
 
-###Desktop interface programming
+### Desktop interface programming
 
 - Help invent, design and implement our pixel perfect Desktop interfaces in Cocoa/Objective-C.
 - Explore how we can draw custom shapes in Framer with Skia.
@@ -44,7 +44,7 @@ The kind of person we are looking for is someone that can work hard, but also ke
 - Build mobile clients to display prototypes, with offline caching.
 - Improve Framer to make it suitable to build production interfaces.
 
-###Programming languages
+### Programming languages
 
 - Optimize our environment for people that want to learn programming and need to get things done.
 - Help invent a way where specific states of the code can be expressed and changed with a graphical interface.
@@ -52,11 +52,11 @@ The kind of person we are looking for is someone that can work hard, but also ke
 - Invent a better way to organize code for larger projects than just files.
 - Make a great text editor auto-complete that takes user-intent and the current - code context into account.
 
-##About us
+## About us
 
 Framer is developed by an experienced, small team based out of Amsterdam. We focus on building creative tools that push animation and interaction design forward. You can follow the Framer team on Twitter.
 
-###Location
+### Location
 
 All vacancies are for full-time positions at our Amsterdam office. If you don't live in Amsterdam, you have to be willing to relocate and to able to legally work in Europe.
 
@@ -64,6 +64,6 @@ Brouwersgracht 130,<br/>
 1013 HA Amsterdam,<br/>
 The Netherlands
 
-##Next steps
+## Next steps
 
 For more information please contact Koen Bok by email: <a href="mailto:koen@motif.co">koen@motif.co</a>. Please include motivation, a resume and mention CocoaHeadsNL.
