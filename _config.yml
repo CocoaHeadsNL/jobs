@@ -1,6 +1,7 @@
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+gems:
+  - jemoji
+  - jekyll-paginate
 
 # Site settings
 title: "Jobs"
@@ -21,6 +22,11 @@ paginate:	15
 
 url: "http://jobs.cocoaheads.nl" # the base hostname & protocol for your site
 baseurl: ""
+#used to display twitter cards
+twitter_handle: '@cocoaheadsnl'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
 
 # social icons and sharing options
 social:
@@ -34,7 +40,7 @@ social:
 #  - icon:	facebook
 #    url:	https://facebook.com/???
 #    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
+#    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
