@@ -28,8 +28,9 @@ Je hebt ervaring met de volgende frameworks en tools:
 
 #### Frameworks / tools
 
-Ervaring met de volgende tools en open source frameworks is een pre: • Fabric/Crashlytics (crash reporting)
+Ervaring met de volgende tools en open source frameworks is een pre: 
 
+ - Fabric/Crashlytics (crash reporting)
  - Carthage (dependency management)
  - AsyncDisplayKit (asynchroon renderen)
  - Argo (JSON parsing)
