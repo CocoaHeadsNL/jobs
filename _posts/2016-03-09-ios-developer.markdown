@@ -2,7 +2,7 @@
 layout: job
 title:  iOS developer 
 company: NRC Media
-date:   2016-03-09 23:11:00
+date:   2016-03-09 15:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-03-09-ios-developer/nrcLogo.png
