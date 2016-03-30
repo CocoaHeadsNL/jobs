@@ -33,4 +33,4 @@ Furthermore you are prepared to take the Banker’s Oath, just like any other IN
 
 Please let ING know that you found them through CocoaHeadsNL.
 
-More info on [ING jobs](https://www.ing.jobs/Netherlands/Vacancies/Vacancy/Senior-iOS-Engineer-ING-Mobile-2.htm?org=searchresult)
+More info on [ING jobs](https://www.ing.jobs/Netherlands)
