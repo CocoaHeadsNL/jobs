@@ -50,6 +50,6 @@ Excellent compensation package, a permanent contract, flexible work-hours, holid
 The opportunity to be part of an innovative company in an exciting, hot sector 
 The opportunity to work in as part of an international team with great loft style offices in central Amsterdam.
 
-Don't forget to mention Cocoaheads :)
+Dont forget to mention Cocoaheads :)
 
 More info on [Qardio](http://careers.getqardio.com/apply/JhRUgB)
