@@ -1,7 +1,7 @@
 ---
 layout: job
-title:  iOS developer - Qardio
-company: ING
+title:  iOS developer
+company: Qardio
 date:   2016-04-04 3:58:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
