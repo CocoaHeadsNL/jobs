@@ -17,25 +17,26 @@ Have you ever wondered what it would be like to work for Apple or Google at the 
 Qardio is big enough to matter but small enough to make you matter too. If you are driven and ambitious, want to have a great job along with other great people, and want to make a difference, please apply.
 
 ##### Role:
-Our world leading consumer healthcare and medical products bring the potential to transform healthcare for millions of people. We are looking for an ambitious, hardworking individual, with an acute eye for detail and a passion for mobile applications to be part of the engineering team.The Sr. iOS Developer is responsible for managing, developing and deploying innovative iOS applications, which integrate with smart wearable solutions, creating a unique personalized healthcare experience.
+
+We are looking for a Senior iOS developer ambitious, hardworking individual, with an acute eye for detail and a passion for mobile applications to be part of the engineering team.You will be responsible for managing, developing and deploying innovative iOS applications, which integrate with smart wearable solutions, creating a unique personalized healthcare experience.
 
 ##### Responsibilities:
 
 - Provide exceptional programming and analytical skills to develop  innovative mobile applications
-- Lead an agile development team by driving user stories, designing and  developing mobile applications, performing code reviews, and building automation tools
-- Oversee architecture design, software development, unit testing and documentation for the mobile iOS solutions
+- Design and develop iOS mobile applications, performing code reviews, and building test automation tools
+- Analyze business requirements, providing development estimates, feedback and proper implementation 
 - Mentor others in development technologies, best practices, tools, and processes 
+- Maintain, support, troubleshoot, monitor and optimize existing and future iOS mobile applications
 - Value product excellence and team success over individual productivity
-Collaborate with engineers, project managers, executive team and testers to bring new features and services into production
+- Collaborate with engineers, project managers, executive team and testers to bring new features and services into production
 
 ##### Requirements:
 
-- 3+ years iOS development experience using iOS SDK
-- 5+ years of object-oriented software development experience
-- Expert in Objective-C, UIKit, BLE framework and Cocoa 
-- Experience leading projects, performing code reviews and overseeing other iOS developers
-- Proven track record for the design and development of mobile applications with a product company
-- Thorough understanding of XML, JSON and REST Web Service technologies 
+- 4+ years iOS development experience using iOS SDK
+- (Extensive) knowledge of iOS SDK, Xcode, Swift and Objective-C
+- Good knowledge BLE framework
+- Proven track record for the design and development of iOS mobile applications with a product company
+- Thorough understanding REST Web Service technologies 
 - Experience with Scrum methodologies and software development best practices
 - Ability to work effectively in a fast pace team environment
 - Demonstrate the passion to design, develop and build innovative applications
@@ -43,12 +44,21 @@ Collaborate with engineers, project managers, executive team and testers to brin
 - Strong written and oral communication skills in English 
 - Bachelor's degree in Computer Science, Engineering or equivalent field
 
+##### Bonus skills:
+
+- Expertise in Core Data
+- Experience in functional & unit testing
+- Good knowledge of HealthKit Framework
+- Experience with Watch OS
+- Experience with realtime data streaming
+- Experience developing realtime charts
+
 ##### What we offer:
 
-Exciting career path and the potential to grow into a leadership role quickly
-Excellent compensation package, a permanent contract, flexible work-hours, holiday plan, 25 days annual leave, hackathons and training
-The opportunity to be part of an innovative company in an exciting, hot sector 
-The opportunity to work in as part of an international team with great loft style offices in central Amsterdam.
+- Exciting career path and the potential to grow into a leadership role quickly.
+- Excellent compensation package, a permanent contract, flexible work-hours, holiday plan, 25 days annual leave.
+- The opportunity to be part of an innovative company in an exciting, hot sector. 
+- The opportunity to work in as part of an international team with great loft style offices in central Amsterdam. with great loft style offices in central Amsterdam.
 
 Dont forget to mention Cocoaheads :)
 
