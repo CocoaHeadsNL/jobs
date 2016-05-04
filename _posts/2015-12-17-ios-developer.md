@@ -39,6 +39,11 @@ Egeniq is growing steadily and we are ready to add another person to our develop
 
 We love to share knowledge by the way, which is why we speak at conferences and organize mdevcon, a conference by and for mobile developers. As a token of appreciation, if you apply for this job and get past the initial interview (we do at least two before we hire someone), we will give you a ticket (as long as they are still available, so do not wait too long).
 
+### Working for EGENIQ
+
+Egeniq is completely designed as a virtual organisation. Our development environment, project management system, knowledge base, CRM system, accounting system and calendars are all available online. This means everybody can work from anywhere, as long as they are connected: our meetings are usually online.
+Of course we recognize that sometimes it’s fruitful to work on something together in the same location and to share knowledge. We do this in our office or a suitable central location, or at our client’s offices. The key is that we do it when it makes sense, instead of making it the default. We strive to create the ideal mix of working remotely and working on site.
+
 DO YOU RECOGNIZE YOURSELF IN THIS POSITION?
 ===========================================
 
