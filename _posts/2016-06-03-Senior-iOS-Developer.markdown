@@ -2,7 +2,7 @@
 layout: job
 title:  Senior iOS Developer
 company: Capture International
-date:   2016-06-03 10:19:00
+date:   2016-06-03 3:19:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-06-03-Senior-iOS-Developer/capture.png
