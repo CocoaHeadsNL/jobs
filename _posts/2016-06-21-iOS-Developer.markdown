@@ -8,9 +8,9 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-06-21-iOS-Developer/roadmap.png
 ---
 
-##iOS Developer
+## iOS Developer
 
-#####Job description
+##### Job description
 
 We are Roadmap. The all-in-one travel app. Created for travelers. Built by travelers. We offer door-to-door journey guidance and inspiration through personalized content. We take you by the hand. (Well, you take us by the hand, since we are after all an app.) We accompany you where ever you move. Collect your trip details and put them in order of your itinerary. Moreover, we inspire you on whatever you did not plan to happen. Dare you to deep dive into the nightlife of Mukimpur. We’ll even say sorry afterwards. Since Mukimpur is dull and desert-like. We were just fooling around with you. Sorry. (See, we said it!).
 
@@ -19,16 +19,16 @@ Working at Roadmap means movement: everything we do is aimed at moving our compa
 We are looking for an excellent mobile iOS developer who helps us achieve five-star customer appreciation. And world domination. On all platforms. 
 As iOS Developer at Roadmap your job will range from brainstorming to back-end. You will pro-actively contribute to every level of the most awesome app in the world. By teaming up with the designers you will come up with new ideas and translate these into astounding mobile features. Your brain and voice matter as much as your code.
 
-#####Requirements
+##### Requirements
 
-#####Are you the one?
+##### Are you the one?
 - You can tell your current boss you quit to start delivering traveler happiness when:
 - You are an independent thinker, creative and open-minded.
 - You like working in an informal atmosphere and solving problems.
 - You want to help us create the best travel app out there.
 - You sold your NYC penthouse to live in the Netherlands because you want to develop the best travel app out there.
 
-#####If the above already represents you, you are great! But to be awesome the next list also applies:
+##### If the above already represents you, you are great! But to be awesome the next list also applies:
 - 5+ years of experience as a developer
 - 3+ years iOS application development using iOS SDK
 - (Extensive) knowledge of Cocoa, Swift and Objective-C and Xcode
@@ -49,17 +49,13 @@ Bonus:
 - Ad Hoc & Enterprise Distribution
 - Have built an approved store app
 
-#####Our offer
+##### Our offer
 Next to a challenging and dynamic job in an informal, financially sound and growing company, we offer an open work atmosphere with lots of room for your creativity and impact. You’ll benefit from the newest and coolest devices (including a company phone), a weekly stocked fridge (with beer), nutritional sandwich & salad lunch. Our office is an inspiring place: it makes you feel at home, hanging out with colleagues and should allow you to get in your zone. Also important: we offer good salary, pension plans and travel allowance.
 
 
-#####Interested?
+##### Interested?
 
 [Apply now via the form on this website!](http://careers.getroadmap.com/o/ios-developer)
 Dont forget to mention Cocoaheads :)
 
 Roadmap only consider direct applicants. No agencies, please.
-
-
-
-
