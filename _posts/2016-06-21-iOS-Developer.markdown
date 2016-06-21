@@ -10,16 +10,19 @@ sponsor-logo: /assets/article_images/2016-06-21-iOS-Developer/roadmap.png
 
 ## iOS Developer
 
+
 ##### Job description
 
 We are Roadmap. The all-in-one travel app. Created for travelers. Built by travelers. We offer door-to-door journey guidance and inspiration through personalized content. We take you by the hand. (Well, you take us by the hand, since we are after all an app.) We accompany you where ever you move. Collect your trip details and put them in order of your itinerary. Moreover, we inspire you on whatever you did not plan to happen. Dare you to deep dive into the nightlife of Mukimpur. We’ll even say sorry afterwards. Since Mukimpur is dull and desert-like. We were just fooling around with you. Sorry. (See, we said it!).
 
-#Working in our team
+# Working in our team
 Working at Roadmap means movement: everything we do is aimed at moving our company, our product, and our employees forward – and it’s up to you how to achieve this. You’ll be challenged, trusted, held accountable and hugged. We’ll learn from you and you’ll learn from us. We help each other accomplish personal and professional growth. Together is how we roll. It is more than just a job; we need dedicated people that are driven to help us build the best travel app in the world. 
 We are looking for an excellent mobile iOS developer who helps us achieve five-star customer appreciation. And world domination. On all platforms. 
 As iOS Developer at Roadmap your job will range from brainstorming to back-end. You will pro-actively contribute to every level of the most awesome app in the world. By teaming up with the designers you will come up with new ideas and translate these into astounding mobile features. Your brain and voice matter as much as your code.
 
-##### Requirements
+
+# Requirements
+
 
 ##### Are you the one?
 - You can tell your current boss you quit to start delivering traveler happiness when:
@@ -33,7 +36,7 @@ As iOS Developer at Roadmap your job will range from brainstorming to back-end. 
 - 3+ years iOS application development using iOS SDK
 - (Extensive) knowledge of Cocoa, Swift and Objective-C and Xcode
 
-Sound knowledge of:
+##### Sound knowledge of:
 - Software design and architectural principles: OO, Design Patterns, DDD
 - REST web services, JSON, and related technologies
 - Graduate from a university of applied sciences (HBO) in a relevant discipline or higher
@@ -44,7 +47,7 @@ Sound knowledge of:
 - Intrinsic curiosity and up-to-date knowledge of innovations in mobile technology
 - Fully comfortable working in English, both in writing and spoken
 
-Bonus:
+#### Bonus:
 - Experience with Apple Approval & Distribution process
 - Ad Hoc & Enterprise Distribution
 - Have built an approved store app
