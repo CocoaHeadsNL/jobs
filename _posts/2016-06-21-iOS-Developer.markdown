@@ -35,10 +35,9 @@ As iOS Developer at Roadmap your job will range from brainstorming to back-end. 
 - 5+ years of experience as a developer
 - 3+ years iOS application development using iOS SDK
 - (Extensive) knowledge of Cocoa, Swift and Objective-C and Xcode
-
-##### Sound knowledge of:
-- Software design and architectural principles: OO, Design Patterns, DDD
-- REST web services, JSON, and related technologies
+- Sound knowledge of:
+    * Software design and architectural principles: OO, Design Patterns, DDD
+    * REST web services, JSON, and related technologies
 - Graduate from a university of applied sciences (HBO) in a relevant discipline or higher
 - Excellent attention to detail
 - Experience with Git
@@ -53,7 +52,9 @@ As iOS Developer at Roadmap your job will range from brainstorming to back-end. 
 - Have built an approved store app
 
 ##### Our offer
-Next to a challenging and dynamic job in an informal, financially sound and growing company, we offer an open work atmosphere with lots of room for your creativity and impact. You’ll benefit from the newest and coolest devices (including a company phone), a weekly stocked fridge (with beer), nutritional sandwich & salad lunch. Our office is an inspiring place: it makes you feel at home, hanging out with colleagues and should allow you to get in your zone. Also important: we offer good salary, pension plans and travel allowance.
+Next to a challenging and dynamic job in an informal, financially sound and growing company, we offer an open work atmosphere with lots of room for your creativity and impact. You’ll benefit from the newest and coolest devices (including a company phone), a weekly stocked fridge (with beer), nutritional sandwich & salad lunch. You also get unlimited holidays.
+
+Our office is an inspiring place: it makes you feel at home, hanging out with colleagues and should allow you to get in your zone. Also important: we offer good salary, pension plans and travel allowance.
 
 
 ##### Interested?
