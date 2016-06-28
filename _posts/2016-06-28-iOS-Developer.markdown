@@ -10,8 +10,7 @@ sponsor-logo: /assets/article_images/2016-06-28-iOS-Developer/thecapitals.png
 
 ## iOS Developer
 
-
-THE CAPITALS IS OP ZOEK NAAR ENTHOUSIASTE EN GEDREVEN IOS DEVELOPERS DIE WILLEN MEEWERKEN AAN TOONAANGEVENDE SMARTPHONE EN TABLET APPS OP HET GEBIED VAN SPORT, MEDIA EN ENTERTAINMENT. HEB JE ONDERSTAANDE EIGENSCHAPPEN, SKILLS EN ERVARING, EN WIL JE WERKEN AAN APPS VAN HOGE KWALITEIT MET VEEL GEBRUIKERS, NEEM DAN CONTACT MET ONS OP.
+The Capitals is op zoek naar enthousiaste en gedreven iOS developers die willen meewerken aan toonaangevende smartphone en table apps op het gebied van sport, media en entertainment. Heb je onderstaande eigenschappen. skills en ervaring, en wil je werken aan apps van hoge kwaliteit met veel gebruikers, neem dan contact met ons op.
 
 # Solliciteren
 Stuur je CV met toelichting naar jobs at thecapitals.nl of bel ons op 020-6364870.
