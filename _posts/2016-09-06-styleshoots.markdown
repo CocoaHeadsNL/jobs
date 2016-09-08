@@ -11,7 +11,7 @@ sponsor-logo: /assets/article_images/2016-09-06-styleshoots/styleshoots.png
 StyleShoots is hiring a Software Developer to build the next generation iOS and macOS video and photo editing apps.
 
 
-##About the job
+## About the job
 
 StyleShoots is hiring an iOS Software Developer for a permanent position in our Haarlem, The Netherlands office. You will build elegant iOS and macOS software using the most powerful Apple hardware and technologies like Swift, Core Image, AV Foundation etc.
 
@@ -21,14 +21,14 @@ At our Haarlem office we’re an international group of 20 people managing desig
 
 In this video, our team explains the latest feature in our systems - the world's first single-touch controlled studio lighting rig.
 
-##What you'll be doing
+## What you'll be doing
 
 - Designing and developing video and image editing applications on iOS and macOS.
 - Implementing imaging processing and visual effects.
 - Build software that can handle high-quality media content.
 - Ensuring a high level of visual design and fluid user interfaces.
 
-##Requirements
+## Requirements
 
 - Objective-C / C++ proficiency on OSX or iOS is a must. Swift experience is a plus.
 - Image or Video processing development experience is a big plus.
@@ -36,7 +36,7 @@ In this video, our team explains the latest feature in our systems - the world's
 - You are already living in The Netherlands or within the EU.
 - Strong English proficiency.
 
-##What we offer
+## What we offer
 
 - Salary range: €3500-5000 /month depending on experience.
 - MacBook Pro company laptop.
