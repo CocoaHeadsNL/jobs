@@ -19,7 +19,7 @@ At StyleShoots we design and manufacture all-in-one photo machines used by fashi
 
 At our Haarlem office we’re an international group of 20 people managing design, development, sales, logistics and support. You will be joining our 5 people in-house dev team inventing, building and maintaining all our software and core technologies.
 
-In this video, our team explains the latest feature in our systems - the world's first single-touch controlled studio lighting rig.
+[In this video, our team explains the latest feature in our systems - the world's first single-touch controlled studio lighting rig.](https://vimeo.com/141676911)
 
 ## What you'll be doing
 
