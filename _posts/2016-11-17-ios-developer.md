@@ -51,5 +51,5 @@ You will have a personal mentor assigned to you which will help you along the wa
 DO YOU RECOGNIZE YOURSELF IN THIS POSITION?
 ===========================================
 
-Then do not hesitate to contact us! [Send us your CV and motivation and we will be in touch.](mailto:info@egeniq.com)
+Then do not hesitate to contact us! [Send us your CV and motivation and we will be in touch.](mailto:jobs@egeniq.com)
 Dont forget to mention Cocoaheads :)
