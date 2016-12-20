@@ -16,7 +16,7 @@ sponsor-logo: /assets/article_images/2015-04-17-lead-mobile-developer-minddistri
 
 We, the designers, writers and developers at Minddistrict, believe we are making a change for the better, we value writing great software, we acknowledge that it’s people that do so, and we are looking for a new team member.
 
-If you recognize yourself in the above, keep reading, we might be looking for each other! For a look at who we are and how we work, check out this video: 
+If you recognize yourself in the above, keep reading, we might be looking for each other! For a look at who we are and how we work, [check out this video.](https://www.youtube.com/watch?v=uQ4HyoLp4g4)
 
 
 ## The Company
