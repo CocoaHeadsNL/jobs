@@ -6,6 +6,7 @@ date:   2015-12-09 13:37:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-07-24-ios-held/q42-logo-rgb-alpha.png
+active: true
 ---
 
 # iOS-held(in) gezocht bij Q42

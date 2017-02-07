@@ -6,6 +6,7 @@ date:   2016-08-18 3:19:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-08-18-iOS-Lead-Developer/icemobile.png
+active: true
 ---
 
 ## iOS Lead Developer - senior
@@ -48,4 +49,3 @@ If yes, than we might have the right challenge for you as we are hiring an iOS l
 - Culture: You can join a diverse range of clubs (books, films) or start your own!
 
 Don't forget to mention CocoaHeads :)
-

@@ -6,13 +6,14 @@ date:   2015-09-2 19:51:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-09-02-ios-developer/elastique.png
+active: true
 ---
 
 Elastique is een award-winning digitaal bureau dat zich specialiseert in het creeren van spraakmakende en meeslepende online- en mobiele ervaringen. Wij werken volledig  ingericht volgens de agile scrum werkwijze, van sales tot oplevering, in een open, intensieve en prettige samenwerking met onze opdrachtgevers. Wij richten ons met name op de ontwikkeling van websites en mobiele applicaties, maar ons aanbod breidt zich steeds vaker uit met strategie- en concept ontwikkeling. Op dit moment bedienen we klanten zoals: NPO, KRO-NCRV, BNN-VARA, 3FM, Radio 2, AVROTROS.
 
 # Functie
 
-Als iOS Developer bij Elastique ontwikkel je de meest innoverende Mobile Apps. Je gaat aan de slag binnen het multidisciplinaire team van backend, frontend en mobile developers en designers. In SCRUM teams werk je aan een grote diversiteit projecten. 
+Als iOS Developer bij Elastique ontwikkel je de meest innoverende Mobile Apps. Je gaat aan de slag binnen het multidisciplinaire team van backend, frontend en mobile developers en designers. In SCRUM teams werk je aan een grote diversiteit projecten.
 
 # Werkzaamheden
 
@@ -38,4 +39,3 @@ Wij bieden je een fulltime baan (32-40 uur) met een marktconform salaris en aanv
 # Interesse?
 
 Stuur dan je CV naar [marloes@elastique.nl](mailto:marloes@elastique.nl) Heb je nog vragen? Dan kun je altijd bellen op 035 7370688. We horen graag van je! Vergeet niet Cocoaheads te noemen!
-

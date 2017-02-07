@@ -6,6 +6,7 @@ date:   2016-04-04 3:58:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-04-04-iOS-developer/qardioLS.png
+active: true
 ---
 
 # QARDIO
@@ -24,8 +25,8 @@ We are looking for a Senior iOS developer ambitious, hardworking individual, wit
 
 - Provide exceptional programming and analytical skills to develop  innovative mobile applications
 - Design and develop iOS mobile applications, performing code reviews, and building test automation tools
-- Analyze business requirements, providing development estimates, feedback and proper implementation 
-- Mentor others in development technologies, best practices, tools, and processes 
+- Analyze business requirements, providing development estimates, feedback and proper implementation
+- Mentor others in development technologies, best practices, tools, and processes
 - Maintain, support, troubleshoot, monitor and optimize existing and future iOS mobile applications
 - Value product excellence and team success over individual productivity
 - Collaborate with engineers, project managers, executive team and testers to bring new features and services into production
@@ -36,12 +37,12 @@ We are looking for a Senior iOS developer ambitious, hardworking individual, wit
 - (Extensive) knowledge of iOS SDK, Xcode, Swift and Objective-C
 - Good knowledge BLE framework
 - Proven track record for the design and development of iOS mobile applications with a product company
-- Thorough understanding REST Web Service technologies 
+- Thorough understanding REST Web Service technologies
 - Experience with Scrum methodologies and software development best practices
 - Ability to work effectively in a fast pace team environment
 - Demonstrate the passion to design, develop and build innovative applications
 - Self-motivated with the ability to explore new technologies and applications
-- Strong written and oral communication skills in English 
+- Strong written and oral communication skills in English
 - Bachelor's degree in Computer Science, Engineering or equivalent field
 
 ##### Bonus skills:
@@ -57,7 +58,7 @@ We are looking for a Senior iOS developer ambitious, hardworking individual, wit
 
 - Exciting career path and the potential to grow into a leadership role quickly.
 - Excellent compensation package, a permanent contract, flexible work-hours, holiday plan, 25 days annual leave.
-- The opportunity to be part of an innovative company in an exciting, hot sector. 
+- The opportunity to be part of an innovative company in an exciting, hot sector.
 - The opportunity to work in as part of an international team with great loft style offices in central Amsterdam. with great loft style offices in central Amsterdam.
 
 Dont forget to mention Cocoaheads :)

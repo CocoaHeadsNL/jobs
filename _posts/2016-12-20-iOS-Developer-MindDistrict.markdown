@@ -6,6 +6,7 @@ date:   2016-12-20 20:08:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-04-17-lead-mobile-developer-minddistrict/minddistrict.png
+active: true
 ---
 
 # iOS developer
@@ -29,7 +30,7 @@ Minddistrict has been growing for eight years in a row and even though we’re n
 
 Our native mobile apps (iOS & Android) give our users on-the-go access to their therapy (therapeutic content and exercises), while the web app serves both therapists and their clients.
 
-Due to the sensitive nature of our platform’s content, customer security and privacy are key areas of focus. These go hand in hand with caring about code quality, for which we spend a significant amount of our time doing code review, automation and testing. 
+Due to the sensitive nature of our platform’s content, customer security and privacy are key areas of focus. These go hand in hand with caring about code quality, for which we spend a significant amount of our time doing code review, automation and testing.
 
 ## The Team
 

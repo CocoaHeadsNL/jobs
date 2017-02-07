@@ -6,6 +6,7 @@ date:   2016-08-24 3:19:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-08-24-freelance-iOS-developer/m2mobi.jpg
+active: true
 ---
 
 ## Freelance iOS Developer?
@@ -19,14 +20,14 @@ Zowel inhoudelijk als communicatief ben je sterk en bekijk je zaken vanuit een g
 - 3 jaar ervaring heeft met iOS development
 - Ervaring met Swift
 - Goede kennis van object georiënteerd programmeren en design principles
-- Uitstekend Engels spreekt en een goede kennis heeft van de Nederlandse Taal 
+- Uitstekend Engels spreekt en een goede kennis heeft van de Nederlandse Taal
 
 
 # Wat bieden wij:
 
 - Interessante projecten voor bekende merken
 - Kantoor in hartje Amsterdam en werken bij klant op locatie
-- Een internationale werkomgeving 
+- Een internationale werkomgeving
 - Collega’s die passie hebben voor alles wat maar met mobiel en techniek te maken heeft
 
 
@@ -35,4 +36,3 @@ Heb je vragen of ben je gewoonweg super enthousiast om aan de slag te gaan, neem
 **Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld!**
 
 Vergeet niet CocoaHeads te noemen :)
-

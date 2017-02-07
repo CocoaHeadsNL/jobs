@@ -6,6 +6,7 @@ date:   2016-09-06 4:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-09-06-noodlewerk/noodlewerk.png
+active: true
 ---
 
 It's buzzing here at Noodlewerk HQ. We're busy on some great projects and have some more exciting ones coming!
@@ -31,7 +32,7 @@ We're looking for a *programming hero* that can help us create great backbones f
 
 Are you always considering how the things you use could be better? Do you love creating experiences that users will immediately understand? And you enjoy bringing your designs into practice immediately, so others can play with them? That's great!
 
-We're looking for a *UX wizard*, that can work with us to bring the greatest experience to our users! You'll be designing the UI's for cool new apps and bringing those designs to life, both as prototypes and real products, in Xcode with iOS and Swift. 
+We're looking for a *UX wizard*, that can work with us to bring the greatest experience to our users! You'll be designing the UI's for cool new apps and bringing those designs to life, both as prototypes and real products, in Xcode with iOS and Swift.
 
 **Requirements**
 

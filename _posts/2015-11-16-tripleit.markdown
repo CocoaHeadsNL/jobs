@@ -1,16 +1,17 @@
 ---
 layout: job
 title:  iOS Developer  
-company: Triple 
+company: Triple
 date:   2015-11-16 14:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-11-16-ios-developer/triple.png
+active: true
 ---
 
 # iOS Developer
 
-Bij Triple worden wij gedreven door een passie voor technologie en innovatie. Producten ontwikkelen vanuit een intrinsieke motivatie en overtuiging – dat is waar het bij ons om draait. Vanuit deze visie versterken wij topmerken met digitale innovatie en oplossingen gericht op mobiel en internet in uiteenlopende branches, voor o.a. Vodafone, RTL, Heineken, Ajax, Talpa, en ANWB. Van concept en strategie tot design, van apps tot optimalisatie, Virtual Reality en hosting. Met inmiddels ruim 90 enthousiaste collega’s en alle expertise onder één dak, ontwikkelen we bedrijfskritische oplossingen met sterk resultaat. 
+Bij Triple worden wij gedreven door een passie voor technologie en innovatie. Producten ontwikkelen vanuit een intrinsieke motivatie en overtuiging – dat is waar het bij ons om draait. Vanuit deze visie versterken wij topmerken met digitale innovatie en oplossingen gericht op mobiel en internet in uiteenlopende branches, voor o.a. Vodafone, RTL, Heineken, Ajax, Talpa, en ANWB. Van concept en strategie tot design, van apps tot optimalisatie, Virtual Reality en hosting. Met inmiddels ruim 90 enthousiaste collega’s en alle expertise onder één dak, ontwikkelen we bedrijfskritische oplossingen met sterk resultaat.
 
 Voor de afdeling Development zijn we op zoek naar een talentvolle iOS Developer voor het ontwikkelen van onderscheidende iPhone en iPad applicaties voor onze A-merk klanten. Versterk jij het team met je ervaring en passie, waarbij er ruimte is voor initiatief? Lees dan verder, want bij Triple bouwen we samen aan het succes van onze klanten.
 

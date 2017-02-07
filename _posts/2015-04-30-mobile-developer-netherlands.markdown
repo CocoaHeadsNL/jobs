@@ -5,6 +5,7 @@ date:   2015-04-30 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-04-30-mobile-developer-netherlands/Xebia-logo.png
+active: true
 ---
 
 *Are you ahead of the game? Are you the Mobile Craftsman who delivers quality? Are you passionate about Mobile Developing? Do you want to be part of a team consisting out of the finest and most innovative Developers there can be? Are you ready for Software Development done right?!*
@@ -14,7 +15,7 @@ sponsor-logo: /assets/article_images/2015-04-30-mobile-developer-netherlands/Xeb
 
 True Software Craftsmen look for simplicity, and break down complex problems into managable chunks that can be solved with simple code. By focusing on quality, feedback and client value, we create great Mobile Applications.  
 
-Fast paced technology innovations are changing the game. Big Data is changing the way we look at data and client interaction. We keep track of the latest mobile technologies and apply them in our apps. 
+Fast paced technology innovations are changing the game. Big Data is changing the way we look at data and client interaction. We keep track of the latest mobile technologies and apply them in our apps.
 As a Mobile Developer you will have a crucial role in building apps that make the life of people easier. We make award winning apps that are daily used by millions of Dutch people, for example a very popular traveller information app and a leading mobile banking app. We ride the front wave of innovations and make them work in today’s complex organizations.
 
 At Xebia we gather very exceptional people, giving them the space and opportunity to excel, in a community of ambitious and talented peers. Letting the passion of exceptionally smart people drive innovation for our clients is the core concept of our organisation. Everything, from structure to values to strategic innovation to hiring to knowledge management is focused on this.  Being an authority in what we do is the lighthouse we are heading towards.
@@ -35,6 +36,6 @@ At Xebia we gather very exceptional people, giving them the space and opportunit
 - A desirable salary and benefits (Latest MacBook, iPhone, Android phone, nice ride)
 - Drinks, snacks and a lot of fun
 
-Do you want to join us in our journey? Just send your CV including an original and motivating cover letter to [cbenjamins@xebia.com](mailto:cbenjamins@xebia.com) and we will be in touch. Please mention CocoaHeadsNL. 
+Do you want to join us in our journey? Just send your CV including an original and motivating cover letter to [cbenjamins@xebia.com](mailto:cbenjamins@xebia.com) and we will be in touch. Please mention CocoaHeadsNL.
 
 For more information about Xebia and our jobs: [https://xebia.com/careers/](https://xebia.com/careers/) and dont forget to mention CocoaHeadsNL
