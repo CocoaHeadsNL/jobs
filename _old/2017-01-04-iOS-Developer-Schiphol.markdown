@@ -6,6 +6,7 @@ date:   2017-01-04 20:08:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2017-01-04-iOS-Developer-Schiphol/schiphol.png
+active: false
 ---
 
 # Freelance iOS Developer, Schiphol Group (32 uur)

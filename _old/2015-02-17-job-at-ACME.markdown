@@ -5,6 +5,7 @@ date:   2015-02-17 21:51:00
 categories: job posting
 tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+active: false
 ---
 Great non existing job at ACME Corp.
 

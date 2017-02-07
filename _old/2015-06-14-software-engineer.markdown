@@ -6,6 +6,7 @@ date:   2015-06-26 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-06-14-software-engineer/Escaladalogo320.png
+active: false
 ---
 
 # Software Engineer - iOS
@@ -23,9 +24,9 @@ Are you frantic about developing iOS apps in Swift? Do you want to develop the u
 ## OUR REQUIREMENTS
 
 * Highly analytical and curious mind with a master in Computer Science or equivalent
-* Incredible passion for iOS development app development 
+* Incredible passion for iOS development app development
 * Strong Objective-C, iOS SDK development skills
-* Experience in Swift is a plus 
+* Experience in Swift is a plus
 * Active in open source community
 * Live and breathe agile development, SVN, Git, Maven
 * Open personality with superb communication skills (Dutch not required)
@@ -37,7 +38,7 @@ Are you frantic about developing iOS apps in Swift? Do you want to develop the u
 * Inspiring, energetic and sociable team members in a canal facing office in Amsterdam
 * Great opportunity to build from scratch, no legacy, bleeding edge technology stack
 * Extremely flat organisation
-* Great environment for personal and professional development and growth 
+* Great environment for personal and professional development and growth
 * Excellent compensation with attractive ESOP
 
 You can apply by sending your resume to [Roline Spijkervet](mailto:jobs@escaladagroup.com).

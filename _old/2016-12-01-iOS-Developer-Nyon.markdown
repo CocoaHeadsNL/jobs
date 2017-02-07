@@ -6,6 +6,7 @@ date:   2016-11-22 20:08:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-12-01-iOS-Developer-Nyon/logo-nyon_black_website.png
+active: false
 ---
 
 # IOS DEVELOPER IN AMSTERDAM

@@ -5,6 +5,7 @@ date:   2015-03-04 13:36:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-03-04-ios-developer-booking/booking.png
+active: false
 ---
 
 Booking.com BV (the company behind Booking.com, the market leading online hotel reservation service in the world) is looking for an iOS developer to join our team in our Amsterdam headquarters.  As a member of our IT Production Team, you’ll be given the freedom to make meaningful and measurable improvements that impact millions of people. You will be working on 7000+ boxes placed in multiple, live, data centers around the world, as well as working within one of the biggest e-commerce companies in the world.  
@@ -46,7 +47,7 @@ Booking.com is all about teamwork and it's what keeps us motivated. We push the 
 
 We are a performance-based company that offers career advancement and lucrative compensation, including bonus and stock potential. We also offer what is called the Booking Deal with competitive benefits. This position is open to worldwide candidates and in the case of relocation, we will assist you with a generous relocation package, ensuring a smooth transition to working and living in The Netherlands.
 
-Booking.com BV, part of the Priceline Group (NASDAQ: PCLN), is the global market leader in online hotel reservations.  Established in 1996, www.booking.com is available in 42 languages, offers more than 600,000 hotels and accommodations in 212 countries, features 43+ million reviews written by guests after their stay, and attracts online visitors from both leisure and business markets around the globe. With over 17 years of experience and a team of over 8,600 dedicated employees in 155+ offices worldwide,Booking.com BV and its various support companies around the world operate an in-house customer service team, which is available 24/7 to assist guests in their native languages and ensure an exceptional customer experience.  The Booking.com group offers a dynamic work environment with a culture that is open, innovative and performance oriented, and believe our people and their passion is what makes us successful. 
+Booking.com BV, part of the Priceline Group (NASDAQ: PCLN), is the global market leader in online hotel reservations.  Established in 1996, www.booking.com is available in 42 languages, offers more than 600,000 hotels and accommodations in 212 countries, features 43+ million reviews written by guests after their stay, and attracts online visitors from both leisure and business markets around the globe. With over 17 years of experience and a team of over 8,600 dedicated employees in 155+ offices worldwide,Booking.com BV and its various support companies around the world operate an in-house customer service team, which is available 24/7 to assist guests in their native languages and ensure an exceptional customer experience.  The Booking.com group offers a dynamic work environment with a culture that is open, innovative and performance oriented, and believe our people and their passion is what makes us successful.
 
 # Apply for this job
  Apply now! Send us an original and motivating cover letter and your CV. [Apply here, and please mention CocoaHeadsNL](https://boards.greenhouse.io/workingatbooking/jobs/42289?t=k0n1s8#.VO9itUJSR5g)

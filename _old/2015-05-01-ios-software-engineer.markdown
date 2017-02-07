@@ -5,6 +5,7 @@ date:   2015-05-01 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-05-01-iOS-software-engineer/backbase.png
+active: false
 ---
 
 #Backbase is hiring | iOS Software Engineer
@@ -49,4 +50,3 @@ Backbase offers you a challenging job in an informal and ambitious environment w
 
 #Next steps
 For more information please contact Justyna Adamczyk at +31 (0)20 465 8888 or by email: [justyna@backbase.com](mailto:justyna@backbase.com). Please mention CocoaHeadsNL.
-

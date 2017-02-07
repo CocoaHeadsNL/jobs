@@ -5,6 +5,7 @@ date:   2015-04-23 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-04-23-ios-developer-blendle/blendle.png
+active: false
 ---
 
 # iOS developer bij Blendle

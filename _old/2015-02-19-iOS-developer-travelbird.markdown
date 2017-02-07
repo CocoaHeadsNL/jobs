@@ -5,6 +5,7 @@ date:   2015-02-19 13:36:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-02-19-iOS-developer-travelbird/logo.png
+active: false
 ---
 
 Are you a passionate iOS Developer who honoured a lot of developing skills in the last years? Do you want to use that knowledge to create a fully native iOS app for thousands of users? Or always wanted to play around with the newest features like iBeacons? Then you might just be the right person we're looking for! TravelBird is looking for new talent to join our production development team. Together we will create great new features and deliver an outstanding user experience to all our users.
@@ -39,7 +40,7 @@ We are highly committed on responsibility and believe the developer should reall
 - We believe that the quality of the product is as good as our people, for that reason we invest heavily in increasing the skills and technical knowledge of our colleagues;
 - Lots of things to learn from our top market developers;
 - A tech conference or a new technology book interests you - just ask and we'll take care of it;
-- €1000,- a year for trainings and education; 
+- €1000,- a year for trainings and education;
 - Great variation of work;
 - High-spec Apple MacBook Pro;
 - Freedom and responsibility are at the core of our company;

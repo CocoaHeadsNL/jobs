@@ -6,6 +6,7 @@ date:   2016-03-29 3:58:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-03-29-Senior-iOS-Engineer-ING-Mobile/logo-ing.png
+active: false
 ---
 
 For our mobile development team we are looking for a skilled software engineering professional specialized in the design and development of iOS mobile applications. The candidate should have strong skills in development of native applications. It is an advantage if the candidate has experience in Java back-end or Android development as well.

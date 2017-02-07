@@ -6,6 +6,7 @@ date:   2015-07-27 17:47:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-07-24-ios-awkward/awkward.png
+active: false
 ---
 
 **iOS Engineer**
@@ -50,11 +51,10 @@ One of the first things you will learn is how to operate the espresso machine. O
 
 **Office**
 
-Benjamin Franklinstraat 513 
-3029 AC, Rotterdam 
+Benjamin Franklinstraat 513
+3029 AC, Rotterdam
 The Netherlands
-  
+
 **Apply**
 
 Would you like to apply? Awesome! Please contact David van Leeuwen by email: [david@madeawkward.com](mailto:david@madeawkward.com). Please include your resume and motivation and also mention CocoaHeadsNL!
-

@@ -6,6 +6,7 @@ date:   2015-08-26 19:51:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-08-26-ios-developer/picnic.png
+active: false
 ---
 
 Have you heard of Picnic? Picnic is the first 100% online grocery store in the Netherlands. We aim for zero emissions and waste reduction. Our ultimate goal is to make online grocery shopping the best experience ever! We are currently expanding our international development team. So if you are frantic about developing iOS apps in Swift and want to tackle challenging problems others have been unable to solve, then you should join us!

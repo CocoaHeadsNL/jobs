@@ -5,6 +5,7 @@ date:   2015-04-17 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-04-17-lead-mobile-developer-minddistrict/minddistrict.png
+active: false
 ---
 
 #Minddistrict Lead Mobile Developer
@@ -13,7 +14,7 @@ Minddistrict is hiring a senior iOS and/or Android developer to lead our mobile 
 
 #What is Minddistrict?
 
-Minddistrict is the market leader in mental ehealth software in the Netherlands, with a 7 year history of constant growth. We currently provide software-as-a-service in the Netherlands, the UK and Germany. Our customers are health organizations whose staff [use our software to communicate with their patients](https://www.youtube.com/watch?v=8BlMEeny66g). Minddistrict operates from Amsterdam, Rotterdam, Berlin and London. 
+Minddistrict is the market leader in mental ehealth software in the Netherlands, with a 7 year history of constant growth. We currently provide software-as-a-service in the Netherlands, the UK and Germany. Our customers are health organizations whose staff [use our software to communicate with their patients](https://www.youtube.com/watch?v=8BlMEeny66g). Minddistrict operates from Amsterdam, Rotterdam, Berlin and London.
 
 #Who are the developers?
 
@@ -70,5 +71,3 @@ If you think that you fit this job description please send your CV to [hiring@mi
 #More about us
 - [https://github.com/minddistrict](https://github.com/minddistrict)
 - [https://www.youtube.com/user/Minddistrict](https://www.youtube.com/user/Minddistrict)
-
-
