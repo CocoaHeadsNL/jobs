@@ -1,4 +1,3 @@
-
 ---
 layout: job
 title:  iOS Developer
@@ -9,6 +8,7 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-06-28-iOS-Developer/thecapitals.png
 active: true
 ---
+
 
 ## iOS Developer
 
