@@ -4,7 +4,7 @@ title:  "iOS developer bij Blendle"
 date:   2017-05-16 17:00:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
-sponsor-logo: /assets/article_images/2015-04-23-ios-developer-blendle/blendle.png
+sponsor-logo: /assets/article_images/2017-05-16-ios-developer-blendle/Blendle.png
 active: true
 ---
 
