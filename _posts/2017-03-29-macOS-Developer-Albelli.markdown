@@ -9,7 +9,7 @@ sponsor-logo: /assets/article_images/2017-03-29-macOS-Developer-Albelli/Albelli_
 active: true
 ---
 
-# macOS Developer (client editor team) - albelli
+# Swift/Objective-C Developer (client editor team) - albelli
 
 Looking for a challenging job as a Software Engineer? And are you eager to design and program new features for our internationally released Mac Photo Book program? Then come join our ambitious and enthusiastic team and apply now.
 
@@ -59,6 +59,6 @@ At albelli we work hard, have fun and never forget to celebrate our successes. W
 
 Would you like to be part of this dynamic and international team? Would you like to work with award winning brands and products? Come join us and let’s create memorable moments together!
 
-Please contact our Senior Recruiter [Nathalie Simons](mailto:nathalie.simons@albelli.com) for more information or call via 06-14609038. [Or apply here](http://www.albelli-jobs.com/macos-developer-client-editor-team-albelli-amsterdam/?pubid=589)
+Please contact our Senior Recruiter [Nathalie Simons](mailto:nathalie.simons@albelli.com) for more information or call via 06-14609038. [Or apply here](http://www.albelli-jobs.com/swiftobjective-c-developer-amsterdam/?pubid=625)
 
 Don't forget to mention CocoaHeadsNL.
