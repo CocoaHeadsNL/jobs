@@ -11,7 +11,7 @@ active: true
 
 # Senior iOS Developer
 
-## Development – Amsterdam, Noord-Holland
+**Development – Amsterdam, Noord-Holland**
 
 Cash is history. Your new wallet is an omnichannel payment app on your smartphone. It's Payconiq.
 
