@@ -13,10 +13,10 @@ active: true
 
 Wil jij jouw gave ideeën verder ontwikkelen naar innovatieve Apps, dan ben jij de App developer die wij zoeken!
 
-Vakgebied: IT - Overig
-Locatie: Apeldoorn
-Ervaring: Medior
-Opleidingsniveau: HBO
+- Vakgebied: IT - Overig
+- Locatie: Apeldoorn
+- Ervaring: Medior
+- Opleidingsniveau: HBO
 
 ## De functie
 
