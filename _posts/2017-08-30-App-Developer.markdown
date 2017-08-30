@@ -56,7 +56,7 @@ Als Android Developer:
 Als iOS Developer:
 
 - Objective-C en Swift
-- xCode (ontwikkeltool) en autolayout 
+- Xcode (ontwikkeltool) en autolayout 
 - Objective-C en Swift 
 - CocoaPods, CoreData, 
 - SQL, GIT
