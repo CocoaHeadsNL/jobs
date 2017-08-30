@@ -28,7 +28,7 @@ We hebben een start-up mentaliteit bij ons op het kantoor, wat voor ons betekent
 
 ## Het profiel
 
-###Wie we zoeken?
+### Wie we zoeken?
 
 Je hebt passie voor programmeren en mobile technologie. Android en/of IOS kent geen geheimen voor je en je hebt de vaardigheid om snel nieuwe dingen eigen te maken. Je kunt goed samenwerken en vindt het leuk om uitdagende cases op te lossen in een dynamisch team. 
 
