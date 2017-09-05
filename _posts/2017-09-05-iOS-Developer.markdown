@@ -2,7 +2,7 @@
 layout: job
 title:  Senior iOS Developer
 company: BUX
-date:   2017-08-02 12:20:00
+date:   2017-09-05 22:05:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2017-09-05-iOS-Developer/bux.png
