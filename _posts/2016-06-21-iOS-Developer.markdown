@@ -6,7 +6,7 @@ date:   2016-06-21 3:19:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-06-21-iOS-Developer/roadmap.png
-active: true
+active: false
 ---
 
 ## iOS Developer
