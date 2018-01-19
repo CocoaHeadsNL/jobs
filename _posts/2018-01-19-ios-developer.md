@@ -2,7 +2,7 @@
 layout: job
 title:  iOS developer
 company: Egeniq
-date:   2016-11-17 11:51:00
+date:   2018-01-19 11:51:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2015-12-17-ios-developer/Egeniq-logo.png
