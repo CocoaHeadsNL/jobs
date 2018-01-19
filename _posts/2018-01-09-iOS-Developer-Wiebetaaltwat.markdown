@@ -2,7 +2,7 @@
 layout: job
 title:  iOS Developer
 company: WieBetaaltWat
-date:   2017-03-29 20:08:00
+date:   2018-01-09 20:08:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2017-03-29-iOS-Developer-Wiebetaaltwat/Wiebetaaltwat-400.png
@@ -38,4 +38,3 @@ Een gedreven, slimme iOS ontwikkelaar met een gedegen technische kennis. Die str
 Wil je solliciteren of heb je vragen? Stuur [Matthijs Ooms](mailto:jobs@wiebetaaltwat.nl) dan even een mailtje. Vergeet niet Cocoaheads even te noemen!
 
 We horen graag van je!
-
