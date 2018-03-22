@@ -1,0 +1,48 @@
+---
+layout: job
+title:  iOS Lead
+company: Bakken and Baeck
+date:   2018-03-22 10:08:00
+categories: job posting
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+sponsor-logo: /assets/article_images/2018-03-22-ios-lead/benb.png
+active: true
+---
+
+# iOS lead
+We are looking for an experienced iOS developer to lead our team in Oslo, Amsterdam or Bonn. You will get the opportunity to work with some of the finest talents in the industry on innovative and ambitious projects and products together with challenging clients.
+
+## A bit about you
+
+- You enjoy building applications for iOS, and have been doing so for 5+ years now.
+- You're happy collaborating closely with other developers and designers.
+- You're happy collaborating closely with other developers and designers.
+- You enjoy leading and mentoring a team, and are constantly looking for ways to improve collaborative processes.
+
+## Skills we are looking for
+
+- Experience with, and/or a desire to lead a team.
+- Interest in Swift, usability and communicating with Web services such as REST and Websockets.
+- Self-sustaining and forever curious.
+- Good communication skills and experience working directly with clients.
+- Committed to QA, code reviews and testing.
+- A keen eye for good design is a bonus.
+
+## Freedom and flexibility
+At Bakken & Bæck you are given the freedom and flexibility you need to thrive and realize your full potential. Structure your own workday, or work remote. You decide what suits you best.
+## Build something unique
+As an international team we get to bring the most interesting, innovative and exciting ideas to life together with some of the best and most renowned clients and partners in the business.
+## What you need to excel
+You will be provided with the tools you need to flourish. You'll get the hardware and software you need, and an amazing and dynamic work space and environment.
+## Great trips and parties
+Great parties are an important ingredient of Bakken & Bæck. Twice a year, at summer and christmas, we gather everyone in the company for a trip. We also do parties, open houses and the yearly conference An Interesting Day.
+
+- You take pride in delivering work of high quality - While we're at it, we love to see some of your projects!
+- You have a Getting Things Done spirit - Regardless whether you use David Allen's technique or your own
+- You take initiative and responsibility - You own the code, it's up to you to improve it
+- You have experience with automatic software testing - We don't want to waste our time pushing buttons like a monkey
+- You are a definitive team player - You are awarded a silver medal in speaking and a golden medal in listening
+
+Check out the original job specs [right here](https://bakkenbaeck.com/jobs/ios-lead).
+
+Please let Bakken & Bæck know that you found them through CocoaHeadsNL.
