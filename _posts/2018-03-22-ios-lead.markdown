@@ -37,12 +37,6 @@ You will be provided with the tools you need to flourish. You'll get the hardwar
 ## Great trips and parties
 Great parties are an important ingredient of Bakken & Bæck. Twice a year, at summer and christmas, we gather everyone in the company for a trip. We also do parties, open houses and the yearly conference An Interesting Day.
 
-- You take pride in delivering work of high quality - While we're at it, we love to see some of your projects!
-- You have a Getting Things Done spirit - Regardless whether you use David Allen's technique or your own
-- You take initiative and responsibility - You own the code, it's up to you to improve it
-- You have experience with automatic software testing - We don't want to waste our time pushing buttons like a monkey
-- You are a definitive team player - You are awarded a silver medal in speaking and a golden medal in listening
-
 Check out the original job specs [right here](https://bakkenbaeck.com/jobs/ios-lead).
 
 Please let Bakken & Bæck know that you found them through CocoaHeadsNL.
