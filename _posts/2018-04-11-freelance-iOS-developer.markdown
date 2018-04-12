@@ -2,7 +2,7 @@
 layout: job
 title:  Freelance iOS Developer
 company: M2Mobi
-date:   2016-04-11 3:19:00
+date:   2018-04-11 3:19:00
 categories: job posting
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 sponsor-logo: /assets/article_images/2016-08-24-freelance-iOS-developer/m2mobi.jpg
