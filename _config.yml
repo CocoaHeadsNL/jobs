@@ -18,6 +18,10 @@ name: 'CocoaHeadsNL'
 author: 'CocoaHeadsNL'
 author_image: "/assets/images/CocoaHeadsNL.png"
 
+# add .well-known to public visible link
+include: [".well-known"]
+permalink: .well-known/apple-app-site-association
+
 paginate:	15
 
 url: "http://jobs.cocoaheads.nl" # the base hostname & protocol for your site
@@ -60,5 +64,3 @@ social:
 
 # Immediaatly render future posts
 future: true
-# add .well-known to public visible link
-include: [".well-known"]
