@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps":[],
+    "details": [
+      {
+        "appID": "D55PL7PU7S.nl.cocoaheads.app.CocoaHeadsNL",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
