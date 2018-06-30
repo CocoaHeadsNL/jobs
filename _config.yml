@@ -18,9 +18,6 @@ name: 'CocoaHeadsNL'
 author: 'CocoaHeadsNL'
 author_image: "/assets/images/CocoaHeadsNL.png"
 
-# add .well-known to public visible link
-include: [".well-known/"]
-
 paginate:	15
 
 url: "http://jobs.cocoaheads.nl" # the base hostname & protocol for your site
