@@ -19,8 +19,7 @@ author: 'CocoaHeadsNL'
 author_image: "/assets/images/CocoaHeadsNL.png"
 
 # add .well-known to public visible link
-include: [".well-known"]
-permalink: .well-known/apple-app-site-association
+include: [".well-known/apple-app-site-association"]
 
 paginate:	15
 
