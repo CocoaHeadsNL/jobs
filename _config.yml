@@ -20,6 +20,8 @@ author_image: "/assets/images/CocoaHeadsNL.png"
 
 paginate:	15
 
+include: ["apple-app-site-association"]
+
 url: "http://jobs.cocoaheads.nl" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
