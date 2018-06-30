@@ -60,3 +60,5 @@ social:
 
 # Immediaatly render future posts
 future: true
+# add .well-known to public visible link
+include: [".well-known"]
