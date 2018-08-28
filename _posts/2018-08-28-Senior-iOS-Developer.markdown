@@ -31,7 +31,7 @@ That means, we do our best to foster an environment where everyone can be succes
 
 ## Requirements
 
-###Now that we told you about us, can you introduce yourself? Hopefully this starts with...
+### Now that we told you about us, can you introduce yourself? Hopefully this starts with...
 
 “As an experienced **iOS Developer**, I’m confident with **iOS application development** using **iOS SDK** and technologies like **Objective-C, Swift and Xcode**. I’m more than aware of best practices of **mobile security and hardening**. I cannot wait to learn the next technology in my stack. I believe that testing is crucial and I definitely have a **test-driven mindset** and experience with **functional testing frameworks** and with **A/B testing** too.
 
