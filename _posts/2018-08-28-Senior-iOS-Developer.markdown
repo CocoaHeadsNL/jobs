@@ -62,6 +62,6 @@ I solve problems methodically with confidence and with attention to detail. I’
 
 And if you like, you can check out our [culture video](https://vimeo.com/233300699) or our [summer boat event](https://vimeo.com/275787030) to get an even better idea of who we are!
 
-[Contact Eva here!](mailto:eva.baluchova@payconiq.com)
+[Contact Eva here!](mailto:eva.baluchova@payconiq.com) Or visit: [https://werkenbij.q42.nl/open-sollicitatie](https://werkenbij.q42.nl/open-sollicitatie/nl)
 
 Don't forget to mention CocoaHeadsNL.
