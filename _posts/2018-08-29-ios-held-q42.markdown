@@ -1,0 +1,113 @@
+---
+layout: job
+title:  Open sollicitatie
+company: Q42
+date:   2018-09-29 15:23:00
+categories: job posting
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+sponsor-logo: /assets/article_images/2015-07-24-ios-held/q42-logo-rgb-alpha.png
+active: true
+---
+
+# Open sollicitatie
+
+## Wij zijn Q42.
+
+'Een technisch innovatief internetbureau', zeggen sommigen. 'Nerds', zeggen anderen. Wij zelf bijvoorbeeld, als we eerlijk zijn. We houden namelijk heel erg van goed programmeren.
+
+Maar dat is niet het hele verhaal. Techniek is pas interessant met mensen erbij. We vinden het daarom nog leuker om zo te programmeren dat ons werk niet alleen nuttig, maar ook vriendelijk is.
+
+### Maar waarom dan?
+
+Die vraag hoort je veel bij ons. We komen graag tot de kern. Om vervolgens samen een oplossing te bedenken waarvan je een lach op je gezicht krijgt. Zo bedenken en bouwen we dingen met impact. Meestal in de vorm van projecten met klanten, soms ook voor onszelf, altijd met een technische uitdaging en voor een mooi doel.
+
+## Wij zijn dol op mooie dingen bouwen.
+
+Maar het internet is nog lang niet af. Daarom hebben we jouw hulp nodig!
+
+## Want jij…
+
+- Bent een steengoeie coder;
+- Kunt met trots verschillende door jou gebouwde dingen laten zien;
+- Gaat heul erg aan op elegante code;
+- Duikt graag in nieuwe dingen;
+- Bent niet vies van buiten je comfort zone stappen;
+- Werkt met plezier een mooie, pragmatische architectuur uit;
+- Bedenkt slimme dingen, waardoor de eindgebruiker nog meer gaat houden van het product;
+- Doet dat samen met de klanten, ontwerpers en andere nerds… uh… gepassioneerde programmeurs in je team, want wij geloven in synergie;
+- Wil verschil maken;
+- Hoeft geen stropdas/mantelpakje te dragen.
+
+## En wij…
+
+- Zijn dol op samen mooie dingen maken;
+- Zitten in Den Haag op de Binckhorst en in Amsterdam aan het IJ;
+- Hebben een connected glijbaan;
+- Vinden de gebruiker belangrijker dan de klant, en durven daarvoor te strijden;
+- Zijn apetrots op ons werk voor [Rijksmuseum](https://www.rijksmuseum.nl/), adidas, [9292](http://9292.nl/), [Staatsloterij](https://www.staatsloterij.nl/), Google, [Philips hue](https://my.meethue.com/nl/), [gemeente Amsterdam](https://belowthesurface.amsterdam/) en veel meer mooie klanten en partners;
+- Hebben connected toiletten;
+- Houden wel van technische uitdagingen en creativiteit;
+- Houden niet van veel managementlagen en complexiteit;
+- Hebben om de week passietijd, waarin we alles doen en bouwen wat we maar willen;
+- Lunchen iedere dag gezellig met z’n allen tegelijk, en die krijg je van ons net als de espresso, ijs, fruit, chips, etc;
+- Geloven dat een bedrijf niet om geld draait, maar om mensen;
+- Zijn ambitieus, willen verschil maken, en zetten het liefst een kras op de planeet;
+- Hebben nog een paar dingen die connected moeten worden;
+- Dragen ook geen stropdas/mantelpakje.
+
+
+## Onze sollicitatieprocedure…
+
+“Een wat? Een procedure?” Ja, we weten ’t, wij houden er ook niet van. Hebben we gelukkig ook niet zoveel. Maar aangezien nieuwe mensen aannemen best wel heul erg superbelangrijk is hebben we toch een manier bedacht om dit écht goed te doen. Komt ‘ie:
+
+1. Klik op “Ik wil langskomen!” en maak er een mooi verhaal van;
+1. Je komt gezellig bij ons langs om te kletsen over jou én over Q. Neem ook wat code mee, iets waar je trots op bent. Dat is veel leuker om naar te kijken dan een CV;
+1. Daarna kom je nóg een keer gezellig kletsen. Maar dit keer krijg je eerst huiswerk mee, een leuke programmeeropdracht, die je mag uitvoeren in de taal die je zelf het beste vindt passen;
+1. De laatste stap is een pair-programming-middag. Je haakt dan bij een stuk of drie teams aan. Leuk voor jou om wat meer Q’ers te leren kennen en om ons werk van dichtbij te zien. Leuk voor ons omdat we graag alle Q’ers betrekken bij de sollicitaties. We stellen de Q’ers achteraf de vraag: “Zou je balen als we hem/haar niet aannemen?” Als ze dan ja zeggen, dan weten we genoeg. :)
+1. We doen je een aanbod, we krabbelen, en je komt hier lol en verschil maken.
+
+## 10 dingen waar wij heel erg van houden.
+
+Ons manifest, so to speak...
+
+### Techniek
+
+Weet je nog hoe leuk het was om iets met LEGO te maken? Dat hebben wij met apps, websites, connected devices, games en VR-dingen bouwen. Vrijwel alle Q’ers kunnen programmeren, ook onze projectleiders en onze interaction designers, die wij interaction engineers noemen. Techniek geeft je super powers, en daar kunnen wij geen genoeg van krijgen.
+
+### Eindgebruikers
+
+Techniek is pas interessant met mensen erbij. Onze ontwikkelaars, vooral de front-end mobiele en web-developers, staan met één been in interactie-ontwerp. Sommige dingen kun je eigenlijk pas echt goed ontwerpen als je aan het bouwen bent. Responsive gedrag bijvoorbeeld, of transities. En steengoed UX design is voor ons óók denken aan de 1001 dingen die vaak over het hoofd worden gezien, zoals de ‘unhappy flow’, accessibility en security.
+
+### Het juiste bouwen
+
+Ken je de waarom-fase bij jonge kinderen? Daar zijn wij een beetje in blijven hangen. We komen graag tot de kern. Om vervolgens samen een oplossing te bedenken waarvan je een lach op je gezicht krijgt. Zo bedenken en bouwen we samen dingen met impact.
+
+### Steengoeie partners
+
+We zijn geen full service bureau, maar bieden wel full service. Want natuurlijk willen onze klanten ontzorgt worden, en dat doen wij graag met steengoeie partners. Bijvoorbeeld onze vrienden van Fabrique, als we briljante ontwerpers nodig hebben. Of Polteq, die software testen tot ware kunst verheven hebben.
+
+### Een team dat ervoor gaat
+
+Ons interne doel is een happy place for nerds te bieden aan de knapste koppen van Nederland. Een belangrijk onderdeel daarvan is dat we werk doen waar we écht blij van worden. Projectteams vormen we uit Q’ers die het meest enthousiast worden van een project. Dat zijn de teams die gaan verbazen, die meer gaan bereiken dan alleen aan de vraag voldoen.
+
+### Dingen leren
+
+Q’ers zijn specialisten met een brede interesse, ofwel T-shaped. Leren, experimenteren en spelen met nieuwe tech doen wij dolgraag. Bijvoorbeeld tijdens Passietijd, waarin elke Q’er vrijgepland staat om te doen wat hij of zij zelf wil. Maar ook met trainingen, die we zowel extern opzoeken als intern organiseren onder de noemer ‘Q University’. Vaak is dit specifiek gericht op ons vakgebied, maar soms ook daar net buiten. Zo hebben we bijvoorbeeld een typografie-cursus gedaan, een storytelling-workshop en een race-drone-bouw-project. Dat verrijkt ons en is opvallend vaak nuttig in ons dagelijks werk.
+
+### Pragmatische oplossingen
+
+Goede programmeurs zijn lui. (Luie programmeurs niet altijd goed, maar dat is een ander verhaal.) Daarom proberen wij problemen altijd lekker pragmatisch en slim op te lossen. Dat doen wij liever dan veel uren draaien. Dat merk je bijvoorbeeld aan onze architectuurkeuzes, waarbij we altijd sturen op cloud-oplossingen die weinig beheer of systeemadministratie vragen. Dan kunnen we onze tijd besteden aan wat we leuk vinden: mooie dingen bouwen.
+
+### Samenwerken
+
+Sommige projectenbureaus dromen er stiekem van om later alleen nog maar eigen producten te ontwikkelen. Doen wij ook graag, die eigen producten, maar we kiezen er bewust voor om projectwerk te blijven doen. Wij worden namelijk heel gelukkig van samenwerken met mensen die net zo blij worden van hun werk als wij van het onze. Onze agile manier van werken is toegespitst op het vormen van een synergie met elkaar. Samen, met de neuzen dezelfde kant op, knokken voor een mooi product is het leukste dat er is!
+
+### The right tool for the right job
+
+Elk probleem is anders. Wij hebben daarom niet één vaste oplossing. Of wij een project in .NET, Node.js of serverless doen, met React, Vue.js of Meteor, en of wij onze apps native, hybride of met React Native bouwen hangt allemaal af van de vraag. Laten we eerst samen in de vraag duiken voordat we het antwoord geven.
+
+### ‘Oh wow’-momentjes
+
+Bij Q42 geloven we in de kracht van verwondering. ‘Oh wow’-momentjes, zoals “Oh wow, deze app zit echt goed in elkaar!” of “Oh wow, de loader in de PostNL app is echt supervet!” En ook grotere ‘oh wow’-momenten, zoals “Oh wow, this is the internet we were promised” over De Tuin der Lusten of “Oh wow, muziekles is nu ineens tof!” over Blink’s Kazoo. Werk waarmee wij kunnen verwonderen is werk waar wij harder van gaan rennen.
+
+Interesse? Neem een kijkje op onze website ([https://werkenbij.q42.nl/open-sollicitatie/nl](https://werkenbij.q42.nl/open-sollicitatie/nl)) Vermeld even dat je ons gevonden hebt via CocoaHeadsNL.
