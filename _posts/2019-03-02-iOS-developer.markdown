@@ -32,7 +32,7 @@ Tikkie, Mobiel Bankieren, Grip - some of our apps are already disrupting mobile 
 
 - Experience: 3+ years
 - Knowledge: Obj-C/Swift,
-- Solid understanding of data persistence, experience with Core Data and Realm is a plusBe familiar with Autolayouts, StackViews and programmatically created interfaces
+- Be familiar with Autolayouts, StackViews and programmatically created interfaces
 - Knowledge of  UnitTests/UI tests.
 - Strong knowledge of MVC/MVVM patterns and desirably knowledge of one of the standard scalable architectures VIPER/CleanSwift or other CleanArchitecture-based patterns.
 - Be familiar with GIT
