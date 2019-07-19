@@ -20,7 +20,7 @@ Als Junior iOS Developer voor Centraal Beheer kun jij dagelijks jouw gave ideeë
 
 # Jouw afdeling
 
-Je wordt onderdeel van ons gave dev-ops team in Apeldoorn met een leuk sfeer waarin we hard werken aan onze ambities en we ruimte maken voor fun. Samen met de 30 andere scrum teams bouwen we aan de digitale klantbediening van Centraal Beheer.  
+Je wordt onderdeel van ons gave dev-ops team in Apeldoorn met een leuke sfeer waarin we hard werken aan onze ambities en we ruimte maken voor fun. Samen met de 30 andere scrum teams bouwen we aan de digitale klantbediening van Centraal Beheer.  
 
 - 1x per kwartaal hebben we een PI-event
 - 1x per kwartaal hebben we een Mobile Madness day waarin je je eigen ideeën kan uitwerken en bouwen. Vooral in de zomer na de WWDC zijn de Mobile Madness Days een rijpe bodem voor nieuwe ontwikkelingen
@@ -42,6 +42,6 @@ Je komt te werken in ons mooie kantoor in Apeldoorn. De salarisrange loopt van �
 - Daarnaast krijg je een reiskostenvergoeding en korting op onze schade-, zorg-, en arbeidsongeschiktheidsverzekeringen.
 
 Solliciteren en meer weten?:
-Voor vragen over de functie kun je contact opnemen met Jolanda van Roon, recruiter, [06-133 336 14](tel:+31613333614) (Whatsapp of bellen) of op [tamar.noordermeer@achmea.nl](mailto:tamar.noordermeer@achmea.nl).
+Voor vragen over de functie kun je contact opnemen met Tamar Noordermeer, recruiter, [06-133 336 14](tel:+31613333614) (Whatsapp of bellen) of op [tamar.noordermeer@achmea.nl](mailto:tamar.noordermeer@achmea.nl).
 
 Vergeet niet te melden dat je deze vacature via CocoaHeadsNL gevonden hebt.
