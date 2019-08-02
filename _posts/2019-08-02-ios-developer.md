@@ -27,7 +27,7 @@ At Egeniq you will work in a relaxed and pleasant atmosphere with people who sha
 * With the apps you create at Egeniq, you make the difference.
 * Each day you learn more.
 * You work where you feel the most comfortable.
-* You work with the Gadget Kit: MacBook Pro, Thunderbolt Display and all devices that you need for the apps you are going to make.
+* You work with the Gadget Kit: MacBook Pro, LG 5K display and all devices that you need for the apps you are going to make.
 
 ### What we expect from you
 
